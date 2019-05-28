@@ -1,0 +1,3830 @@
+,Year,Ridership,city
+0,2012,41499.0,Aberdeen
+1,2013,40160.0,Aberdeen
+2,2014,39541.0,Aberdeen
+3,2015,39648.0,Aberdeen
+4,2016,37161.0,Aberdeen
+5,2017,37045.0,Aberdeen
+6,2018,37867.0,Aberdeen
+0,2012,39365.0,Albany
+1,2013,40032.0,Albany
+2,2014,34796.0,Albany
+3,2015,32497.0,Albany
+4,2016,33656.0,Albany
+5,2017,33933.0,Albany
+6,2018,30780.0,Albany
+0,2012,750.5,Albany-Rensselaer
+1,2013,747.0,Albany-Rensselaer
+2,2014,766.2,Albany-Rensselaer
+3,2015,816.1,Albany-Rensselaer
+4,2016,842.2,Albany-Rensselaer
+5,2017,788.1,Albany-Rensselaer
+6,2018,790.5,Albany-Rensselaer
+0,2012,1980.0,Albion
+1,2013,1932.0,Albion
+2,2014,1727.0,Albion
+3,2015,1808.0,Albion
+4,2016,1603.0,Albion
+5,2017,2194.0,Albion
+6,2018,2011.0,Albion
+0,2012,76538.0,Albuquerque
+1,2013,76026.0,Albuquerque
+2,2014,75398.0,Albuquerque
+3,2015,77532.0,Albuquerque
+4,2016,75651.0,Albuquerque
+5,2017,74293.0,Albuquerque
+6,2018,64382.0,Albuquerque
+0,2012,603.0,Alderson
+1,2013,586.0,Alderson
+2,2014,551.0,Alderson
+3,2015,432.0,Alderson
+4,2016,449.0,Alderson
+5,2017,449.0,Alderson
+6,2018,433.0,Alderson
+0,2012,166.8,Alexandria
+1,2013,178.0,Alexandria
+2,2014,178.6,Alexandria
+3,2015,181.4,Alexandria
+4,2016,180.7,Alexandria
+5,2017,190.6,Alexandria
+6,2018,187.3,Alexandria
+0,2012,4373.0,Alliance
+1,2013,4538.0,Alliance
+2,2014,4691.0,Alliance
+3,2015,4714.0,Alliance
+4,2016,5191.0,Alliance
+5,2017,5020.0,Alliance
+6,2018,4501.0,Alliance
+0,2012,4416.0,Alpine
+1,2013,4921.0,Alpine
+2,2014,4756.0,Alpine
+3,2015,4969.0,Alpine
+4,2016,4943.0,Alpine
+5,2017,4999.0,Alpine
+6,2018,5311.0,Alpine
+0,2012,61346.0,Alton
+1,2013,71685.0,Alton
+2,2014,67640.0,Alton
+3,2015,60761.0,Alton
+4,2016,59188.0,Alton
+5,2017,63579.0,Alton
+6,2018,66591.0,Alton
+0,2012,26360.0,Altoona
+1,2013,25522.0,Altoona
+2,2014,26088.0,Altoona
+3,2015,24900.0,Altoona
+4,2016,21865.0,Altoona
+5,2017,21447.0,Altoona
+6,2018,19378.0,Altoona
+0,2012,Partial Data,Amherst
+1,2013,Partial Data,Amherst
+2,2014,Partial Data,Amherst
+3,2015,Partial Data,Amherst
+4,2016,Partial Data,Amherst
+5,2017,Partial Data,Amherst
+6,2018,Partial Data,Amherst
+0,2012,9197.0,Amsterdam
+1,2013,10694.0,Amsterdam
+2,2014,11119.0,Amsterdam
+3,2015,11099.0,Amsterdam
+4,2016,10365.0,Amsterdam
+5,2017,10469.0,Amsterdam
+6,2018,10166.0,Amsterdam
+0,2012,209.4,Anaheim
+1,2013,214.5,Anaheim
+2,2014,212.8,Anaheim
+3,2015,236.3,Anaheim
+4,2016,243.9,Anaheim
+5,2017,247.6,Anaheim
+6,2018,256.6,Anaheim
+0,2012,141.9,Ann Arbor
+1,2013,155.4,Ann Arbor
+2,2014,141.4,Ann Arbor
+3,2015,141.2,Ann Arbor
+4,2016,127.2,Ann Arbor
+5,2017,144.1,Ann Arbor
+6,2018,155.6,Ann Arbor
+0,2012,6209.0,Anniston
+1,2013,5835.0,Anniston
+2,2014,5200.0,Anniston
+3,2015,5085.0,Anniston
+4,2016,4871.0,Anniston
+5,2017,4255.0,Anniston
+6,2018,3833.0,Anniston
+0,2012,39001.0,Antioch-Pittsburg
+1,2013,43953.0,Antioch-Pittsburg
+2,2014,43231.0,Antioch-Pittsburg
+3,2015,43217.0,Antioch-Pittsburg
+4,2016,39995.0,Antioch-Pittsburg
+5,2017,38103.0,Antioch-Pittsburg
+6,2018,35343.0,Antioch-Pittsburg
+0,2012,Partial Data,Arcadia
+1,2013,Partial Data,Arcadia
+2,2014,Partial Data,Arcadia
+3,2015,Partial Data,Arcadia
+4,2016,Partial Data,Arcadia
+5,2017,Partial Data,Arcadia
+6,2018,Partial Data,Arcadia
+0,2012,59157.0,Ardmore
+1,2013,67583.0,Ardmore
+2,2014,56332.0,Ardmore
+3,2015,61129.0,Ardmore
+4,2016,67629.0,Ardmore
+5,2017,65882.0,Ardmore
+6,2018,63493.0,Ardmore
+0,2012,59157.0,Ardmore
+1,2013,67583.0,Ardmore
+2,2014,56332.0,Ardmore
+3,2015,61129.0,Ardmore
+4,2016,67629.0,Ardmore
+5,2017,65882.0,Ardmore
+6,2018,63493.0,Ardmore
+0,2012,1602.0,Arkadelphia
+1,2013,1787.0,Arkadelphia
+2,2014,1527.0,Arkadelphia
+3,2015,1308.0,Arkadelphia
+4,2016,1177.0,Arkadelphia
+5,2017,1390.0,Arkadelphia
+6,2018,1433.0,Arkadelphia
+0,2012,24041.0,Ashland
+1,2013,28392.0,Ashland
+2,2014,27815.0,Ashland
+3,2015,28014.0,Ashland
+4,2016,27943.0,Ashland
+5,2017,30685.0,Ashland
+6,2018,28939.0,Ashland
+0,2012,24041.0,Ashland
+1,2013,28392.0,Ashland
+2,2014,27815.0,Ashland
+3,2015,28014.0,Ashland
+4,2016,27943.0,Ashland
+5,2017,30685.0,Ashland
+6,2018,28939.0,Ashland
+0,2012,101.8,Atlanta
+1,2013,95.4,Atlanta
+2,2014,92.9,Atlanta
+3,2015,83.8,Atlanta
+4,2016,78.2,Atlanta
+5,2017,76.2,Atlanta
+6,2018,70.9,Atlanta
+0,2012,N/A,Atmore
+1,2013,N/A,Atmore
+2,2014,N/A,Atmore
+3,2015,N/A,Atmore
+4,2016,N/A,Atmore
+5,2017,N/A,Atmore
+6,2018,N/A,Atmore
+0,2012,28395.0,Auburn
+1,2013,49686.0,Auburn
+2,2014,16383.0,Auburn
+3,2015,14779.0,Auburn
+4,2016,15732.0,Auburn
+5,2017,13352.0,Auburn
+6,2018,14267.0,Auburn
+0,2012,40738.0,Austin
+1,2013,37950.0,Austin
+2,2014,32206.0,Austin
+3,2015,32920.0,Austin
+4,2016,30745.0,Austin
+5,2017,34026.0,Austin
+6,2018,33624.0,Austin
+0,2012,Partial Data,Autumn Express [Selkirk]
+1,2013,Partial Data,Autumn Express [Selkirk]
+2,2014,Partial Data,Autumn Express [Selkirk]
+3,2015,Partial Data,Autumn Express [Selkirk]
+4,2016,Partial Data,Autumn Express [Selkirk]
+5,2017,Partial Data,Autumn Express [Selkirk]
+6,2018,Partial Data,Autumn Express [Selkirk]
+0,2012,494.0,Bakersfield
+1,2013,530.4,Bakersfield
+2,2014,509.1,Bakersfield
+3,2015,504.6,Bakersfield
+4,2016,480.9,Bakersfield
+5,2017,472.0,Bakersfield
+6,2018,431.4,Bakersfield
+0,2012,685.9,Baltimore - BWI Thurgood Marshall Airport
+1,2013,690.3,Baltimore - BWI Thurgood Marshall Airport
+2,2014,676.3,Baltimore - BWI Thurgood Marshall Airport
+3,2015,657.9,Baltimore - BWI Thurgood Marshall Airport
+4,2016,679.6,Baltimore - BWI Thurgood Marshall Airport
+5,2017,714.7,Baltimore - BWI Thurgood Marshall Airport
+6,2018,748.5,Baltimore - BWI Thurgood Marshall Airport
+0,2012,1000.9,Baltimore - Penn Station
+1,2013,1031.6,Baltimore - Penn Station
+2,2014,1005.8,Baltimore - Penn Station
+3,2015,968.1,Baltimore - Penn Station
+4,2016,1008.1,Baltimore - Penn Station
+5,2017,1043.0,Baltimore - Penn Station
+6,2018,1026.0,Baltimore - Penn Station
+0,2012,3616.0,Bangor
+1,2013,3856.0,Bangor
+2,2014,4112.0,Bangor
+3,2015,3895.0,Bangor
+4,2016,3943.0,Bangor
+5,2017,4376.0,Bangor
+6,2018,4180.0,Bangor
+0,2012,3433.0,Barstow
+1,2013,3586.0,Barstow
+2,2014,3096.0,Barstow
+3,2015,3463.0,Barstow
+4,2016,3153.0,Barstow
+5,2017,3509.0,Barstow
+6,2018,3400.0,Barstow
+0,2012,49770.0,Battle Creek
+1,2013,48321.0,Battle Creek
+2,2014,45897.0,Battle Creek
+3,2015,42549.0,Battle Creek
+4,2016,38266.0,Battle Creek
+5,2017,41912.0,Battle Creek
+6,2018,41420.0,Battle Creek
+0,2012,N/A,Bay St. Louis
+1,2013,N/A,Bay St. Louis
+2,2014,N/A,Bay St. Louis
+3,2015,N/A,Bay St. Louis
+4,2016,N/A,Bay St. Louis
+5,2017,N/A,Bay St. Louis
+6,2018,N/A,Bay St. Louis
+0,2012,2724.0,Beaumont
+1,2013,3458.0,Beaumont
+2,2014,3412.0,Beaumont
+3,2015,3265.0,Beaumont
+4,2016,3344.0,Beaumont
+5,2017,3377.0,Beaumont
+6,2018,3641.0,Beaumont
+0,2012,62924.0,Bellingham
+1,2013,54686.0,Bellingham
+2,2014,54359.0,Bellingham
+3,2015,51632.0,Bellingham
+4,2016,50498.0,Bellingham
+5,2017,50771.0,Bellingham
+6,2018,49319.0,Bellingham
+0,2012,4507.0,Bellows Falls
+1,2013,4698.0,Bellows Falls
+2,2014,5399.0,Bellows Falls
+3,2015,4749.0,Bellows Falls
+4,2016,4466.0,Bellows Falls
+5,2017,4718.0,Bellows Falls
+6,2018,4462.0,Bellows Falls
+0,2012,1367.0,Benson
+1,2013,1833.0,Benson
+2,2014,1961.0,Benson
+3,2015,2073.0,Benson
+4,2016,2013.0,Benson
+5,2017,2036.0,Benson
+6,2018,1939.0,Benson
+0,2012,151.1,Berkeley
+1,2013,152.0,Berkeley
+2,2014,132.9,Berkeley
+3,2015,136.3,Berkeley
+4,2016,149.9,Berkeley
+5,2017,155.0,Berkeley
+6,2018,171.9,Berkeley
+0,2012,23825.0,Berlin
+1,2013,25327.0,Berlin
+2,2014,23165.0,Berlin
+3,2015,20975.0,Berlin
+4,2016,16142.0,Berlin
+5,2017,13827.0,Berlin
+6,2018,15963.0,Berlin
+0,2012,N/A,Biloxi
+1,2013,N/A,Biloxi
+2,2014,N/A,Biloxi
+3,2015,N/A,Biloxi
+4,2016,N/A,Biloxi
+5,2017,N/A,Biloxi
+6,2018,N/A,Biloxi
+0,2012,3147.0,Bingen-White Salmon
+1,2013,3629.0,Bingen-White Salmon
+2,2014,2867.0,Bingen-White Salmon
+3,2015,3081.0,Bingen-White Salmon
+4,2016,3691.0,Bingen-White Salmon
+5,2017,3825.0,Bingen-White Salmon
+6,2018,3272.0,Bingen-White Salmon
+0,2012,47904.0,Birmingham
+1,2013,47780.0,Birmingham
+2,2014,45866.0,Birmingham
+3,2015,44212.0,Birmingham
+4,2016,42034.0,Birmingham
+5,2017,41702.0,Birmingham
+6,2018,39891.0,Birmingham
+0,2012,234.4,Bloomington-Normal
+1,2013,257.8,Bloomington-Normal
+2,2014,257.7,Bloomington-Normal
+3,2015,251.3,Bloomington-Normal
+4,2016,222.6,Bloomington-Normal
+5,2017,237.6,Bloomington-Normal
+6,2018,235.5,Bloomington-Normal
+0,2012,522.2,Boston - Back Bay
+1,2013,534.8,Boston - Back Bay
+2,2014,561.9,Boston - Back Bay
+3,2015,573.3,Boston - Back Bay
+4,2016,604.7,Boston - Back Bay
+5,2017,618.1,Boston - Back Bay
+6,2018,676.5,Boston - Back Bay
+0,2012,466.9,Boston - North Station Maine Service
+1,2013,467.5,Boston - North Station Maine Service
+2,2014,426.8,Boston - North Station Maine Service
+3,2015,354.1,Boston - North Station Maine Service
+4,2016,419.2,Boston - North Station Maine Service
+5,2017,432.8,Boston - North Station Maine Service
+6,2018,458.2,Boston - North Station Maine Service
+0,2012,N/A,Boston - Route 128 / Westwood
+1,2013,N/A,Boston - Route 128 / Westwood
+2,2014,N/A,Boston - Route 128 / Westwood
+3,2015,N/A,Boston - Route 128 / Westwood
+4,2016,N/A,Boston - Route 128 / Westwood
+5,2017,N/A,Boston - Route 128 / Westwood
+6,2018,N/A,Boston - Route 128 / Westwood
+0,2012,466.9,Boston - Route 128 / Westwood
+1,2013,467.5,Boston - Route 128 / Westwood
+2,2014,426.8,Boston - Route 128 / Westwood
+3,2015,354.1,Boston - Route 128 / Westwood
+4,2016,419.2,Boston - Route 128 / Westwood
+5,2017,432.8,Boston - Route 128 / Westwood
+6,2018,458.2,Boston - Route 128 / Westwood
+0,2012,1421.9,Boston - South Station
+1,2013,1407.9,Boston - South Station
+2,2014,1469.3,Boston - South Station
+3,2015,1527.4,Boston - South Station
+4,2016,1552.7,Boston - South Station
+5,2017,1543.0,Boston - South Station
+6,2018,1533.5,Boston - South Station
+0,2012,16922.0,Brattleboro
+1,2013,18332.0,Brattleboro
+2,2014,19835.0,Brattleboro
+3,2015,18580.0,Brattleboro
+4,2016,16000.0,Brattleboro
+5,2017,16345.0,Brattleboro
+6,2018,16649.0,Brattleboro
+0,2012,84446.0,Bridgeport
+1,2013,80309.0,Bridgeport
+2,2014,80571.0,Bridgeport
+3,2015,80198.0,Bridgeport
+4,2016,83211.0,Bridgeport
+5,2017,87023.0,Bridgeport
+6,2018,90196.0,Bridgeport
+0,2012,4635.0,Brookhaven
+1,2013,4900.0,Brookhaven
+2,2014,5178.0,Brookhaven
+3,2015,5172.0,Brookhaven
+4,2016,4252.0,Brookhaven
+5,2017,4131.0,Brookhaven
+6,2018,4028.0,Brookhaven
+0,2012,2180.0,Browning
+1,2013,2005.0,Browning
+2,2014,1782.0,Browning
+3,2015,1576.0,Browning
+4,2016,1574.0,Browning
+5,2017,1645.0,Browning
+6,2018,1334.0,Browning
+0,2012,Partial Data,Brunswick
+1,2013,Partial Data,Brunswick
+2,2014,Partial Data,Brunswick
+3,2015,Partial Data,Brunswick
+4,2016,Partial Data,Brunswick
+5,2017,Partial Data,Brunswick
+6,2018,Partial Data,Brunswick
+0,2012,7664.0,Bryan
+1,2013,6693.0,Bryan
+2,2014,6597.0,Bryan
+3,2015,5608.0,Bryan
+4,2016,5787.0,Bryan
+5,2017,5825.0,Bryan
+6,2018,5225.0,Bryan
+0,2012,123.7,Buffalo - Depew
+1,2013,120.4,Buffalo - Depew
+2,2014,124.2,Buffalo - Depew
+3,2015,114.8,Buffalo - Depew
+4,2016,106.1,Buffalo - Depew
+5,2017,105.0,Buffalo - Depew
+6,2018,104.2,Buffalo - Depew
+0,2012,35622.0,Buffalo - Exchange St.
+1,2013,37885.0,Buffalo - Exchange St.
+2,2014,40809.0,Buffalo - Exchange St.
+3,2015,41216.0,Buffalo - Exchange St.
+4,2016,37524.0,Buffalo - Exchange St.
+5,2017,35066.0,Buffalo - Exchange St.
+6,2018,38089.0,Buffalo - Exchange St.
+0,2012,47217.0,Burbank - Airport
+1,2013,51998.0,Burbank - Airport
+2,2014,54180.0,Burbank - Airport
+3,2015,57971.0,Burbank - Airport
+4,2016,60625.0,Burbank - Airport
+5,2017,63845.0,Burbank - Airport
+6,2018,63560.0,Burbank - Airport
+0,2012,4099.0,Burke - Burke Centre
+1,2013,4950.0,Burke - Burke Centre
+2,2014,5535.0,Burke - Burke Centre
+3,2015,6082.0,Burke - Burke Centre
+4,2016,6220.0,Burke - Burke Centre
+5,2017,6354.0,Burke - Burke Centre
+6,2018,7498.0,Burke - Burke Centre
+0,2012,19926.0,Burlington
+1,2013,20045.0,Burlington
+2,2014,21400.0,Burlington
+3,2015,21022.0,Burlington
+4,2016,18628.0,Burlington
+5,2017,19564.0,Burlington
+6,2018,20390.0,Burlington
+0,2012,19926.0,Burlington
+1,2013,20045.0,Burlington
+2,2014,21400.0,Burlington
+3,2015,21022.0,Burlington
+4,2016,18628.0,Burlington
+5,2017,19564.0,Burlington
+6,2018,20390.0,Burlington
+0,2012,19926.0,Burlington
+1,2013,20045.0,Burlington
+2,2014,21400.0,Burlington
+3,2015,21022.0,Burlington
+4,2016,18628.0,Burlington
+5,2017,19564.0,Burlington
+6,2018,20390.0,Burlington
+0,2012,37393.0,Camarillo
+1,2013,39634.0,Camarillo
+2,2014,42919.0,Camarillo
+3,2015,45959.0,Camarillo
+4,2016,46319.0,Camarillo
+5,2017,48599.0,Camarillo
+6,2018,54868.0,Camarillo
+0,2012,3699.0,Camden
+1,2013,3584.0,Camden
+2,2014,3264.0,Camden
+3,2015,3563.0,Camden
+4,2016,3483.0,Camden
+5,2017,3531.0,Camden
+6,2018,3161.0,Camden
+0,2012,137.4,Carbondale
+1,2013,132.8,Carbondale
+2,2014,127.2,Carbondale
+3,2015,116.5,Carbondale
+4,2016,100.2,Carbondale
+5,2017,99.2,Carbondale
+6,2018,89.9,Carbondale
+0,2012,10557.0,Carlinville
+1,2013,13417.0,Carlinville
+2,2014,11295.0,Carlinville
+3,2015,9626.0,Carlinville
+4,2016,10138.0,Carlinville
+5,2017,10062.0,Carlinville
+6,2018,12089.0,Carlinville
+0,2012,Partial Data,Carlsbad - Poinsettia
+1,2013,Partial Data,Carlsbad - Poinsettia
+2,2014,Partial Data,Carlsbad - Poinsettia
+3,2015,Partial Data,Carlsbad - Poinsettia
+4,2016,Partial Data,Carlsbad - Poinsettia
+5,2017,Partial Data,Carlsbad - Poinsettia
+6,2018,Partial Data,Carlsbad - Poinsettia
+0,2012,Partial Data,Carlsbad - Village
+1,2013,Partial Data,Carlsbad - Village
+2,2014,Partial Data,Carlsbad - Village
+3,2015,Partial Data,Carlsbad - Village
+4,2016,Partial Data,Carlsbad - Village
+5,2017,Partial Data,Carlsbad - Village
+6,2018,Partial Data,Carlsbad - Village
+0,2012,20587.0,Carpinteria
+1,2013,25496.0,Carpinteria
+2,2014,28625.0,Carpinteria
+3,2015,29457.0,Carpinteria
+4,2016,30762.0,Carpinteria
+5,2017,32692.0,Carpinteria
+6,2018,50278.0,Carpinteria
+0,2012,77875.0,Cary
+1,2013,88183.0,Cary
+2,2014,87174.0,Cary
+3,2015,88184.0,Cary
+4,2016,84362.0,Cary
+5,2017,80851.0,Cary
+6,2018,81534.0,Cary
+0,2012,3649.0,Castleton
+1,2013,4211.0,Castleton
+2,2014,4404.0,Castleton
+3,2015,4587.0,Castleton
+4,2016,4452.0,Castleton
+5,2017,4116.0,Castleton
+6,2018,3942.0,Castleton
+0,2012,23331.0,Centralia
+1,2013,25132.0,Centralia
+2,2014,25511.0,Centralia
+3,2015,24791.0,Centralia
+4,2016,25871.0,Centralia
+5,2017,25178.0,Centralia
+6,2018,28218.0,Centralia
+0,2012,23331.0,Centralia
+1,2013,25132.0,Centralia
+2,2014,25511.0,Centralia
+3,2015,24791.0,Centralia
+4,2016,25871.0,Centralia
+5,2017,25178.0,Centralia
+6,2018,28218.0,Centralia
+0,2012,169.9,Champaign-Urbana
+1,2013,186.1,Champaign-Urbana
+2,2014,175.6,Champaign-Urbana
+3,2015,170.9,Champaign-Urbana
+4,2016,159.6,Champaign-Urbana
+5,2017,156.2,Champaign-Urbana
+6,2018,153.5,Champaign-Urbana
+0,2012,9619.0,Charleston
+1,2013,9834.0,Charleston
+2,2014,9525.0,Charleston
+3,2015,9770.0,Charleston
+4,2016,9706.0,Charleston
+5,2017,9749.0,Charleston
+6,2018,11203.0,Charleston
+0,2012,9619.0,Charleston
+1,2013,9834.0,Charleston
+2,2014,9525.0,Charleston
+3,2015,9770.0,Charleston
+4,2016,9706.0,Charleston
+5,2017,9749.0,Charleston
+6,2018,11203.0,Charleston
+0,2012,187.3,Charlotte
+1,2013,194.9,Charlotte
+2,2014,189.2,Charlotte
+3,2015,181.8,Charlotte
+4,2016,171.6,Charlotte
+5,2017,164.1,Charlotte
+6,2018,169.0,Charlotte
+0,2012,124.5,Charlottesville
+1,2013,128.3,Charlottesville
+2,2014,129.5,Charlottesville
+3,2015,132.6,Charlottesville
+4,2016,135.9,Charlottesville
+5,2017,141.2,Charlottesville
+6,2018,131.4,Charlottesville
+0,2012,52543.0,Chatsworth
+1,2013,56493.0,Chatsworth
+2,2014,59075.0,Chatsworth
+3,2015,61847.0,Chatsworth
+4,2016,61089.0,Chatsworth
+5,2017,62925.0,Chatsworth
+6,2018,64063.0,Chatsworth
+0,2012,10304.0,Chemult
+1,2013,10144.0,Chemult
+2,2014,9839.0,Chemult
+3,2015,9821.0,Chemult
+4,2016,10387.0,Chemult
+5,2017,10457.0,Chemult
+6,2018,9199.0,Chemult
+0,2012,3408.3,Chicago - Union Station
+1,2013,3437.7,Chicago - Union Station
+2,2014,3311.3,Chicago - Union Station
+3,2015,3247.4,Chicago - Union Station
+4,2016,3191.0,Chicago - Union Station
+5,2017,3321.2,Chicago - Union Station
+6,2018,3293.6,Chicago - Union Station
+0,2012,11009.0,Chico
+1,2013,12875.0,Chico
+2,2014,13125.0,Chico
+3,2015,13736.0,Chico
+4,2016,13144.0,Chico
+5,2017,12154.0,Chico
+6,2018,10414.0,Chico
+0,2012,N/A,Chipley
+1,2013,N/A,Chipley
+2,2014,N/A,Chipley
+3,2015,N/A,Chipley
+4,2016,N/A,Chipley
+5,2017,N/A,Chipley
+6,2018,N/A,Chipley
+0,2012,15846.0,Cincinnati
+1,2013,14812.0,Cincinnati
+2,2014,13375.0,Cincinnati
+3,2015,12326.0,Cincinnati
+4,2016,11862.0,Cincinnati
+5,2017,11144.0,Cincinnati
+6,2018,8315.0,Cincinnati
+0,2012,1944.0,Claremont
+1,2013,2123.0,Claremont
+2,2014,2117.0,Claremont
+3,2015,2117.0,Claremont
+4,2016,2474.0,Claremont
+5,2017,2560.0,Claremont
+6,2018,2542.0,Claremont
+0,2012,4536.0,Cleburne
+1,2013,4143.0,Cleburne
+2,2014,3322.0,Cleburne
+3,2015,3612.0,Cleburne
+4,2016,3830.0,Cleburne
+5,2017,3888.0,Cleburne
+6,2018,3929.0,Cleburne
+0,2012,Partial Data,Clemson
+1,2013,Partial Data,Clemson
+2,2014,Partial Data,Clemson
+3,2015,Partial Data,Clemson
+4,2016,Partial Data,Clemson
+5,2017,Partial Data,Clemson
+6,2018,Partial Data,Clemson
+0,2012,50191.0,Cleveland
+1,2013,50227.0,Cleveland
+2,2014,48771.0,Cleveland
+3,2015,46096.0,Cleveland
+4,2016,47247.0,Cleveland
+5,2017,53051.0,Cleveland
+6,2018,48657.0,Cleveland
+0,2012,2879.0,Clifton Forge
+1,2013,2750.0,Clifton Forge
+2,2014,2432.0,Clifton Forge
+3,2015,2247.0,Clifton Forge
+4,2016,2401.0,Clifton Forge
+5,2017,2339.0,Clifton Forge
+6,2018,1951.0,Clifton Forge
+0,2012,16493.0,Coatesville
+1,2013,16626.0,Coatesville
+2,2014,14899.0,Coatesville
+3,2015,14435.0,Coatesville
+4,2016,15527.0,Coatesville
+5,2017,17770.0,Coatesville
+6,2018,17278.0,Coatesville
+0,2012,4377.0,Colfax
+1,2013,4479.0,Colfax
+2,2014,4810.0,Colfax
+3,2015,4631.0,Colfax
+4,2016,6277.0,Colfax
+5,2017,7035.0,Colfax
+6,2018,5658.0,Colfax
+0,2012,37119.0,Columbia
+1,2013,35878.0,Columbia
+2,2014,34873.0,Columbia
+3,2015,33428.0,Columbia
+4,2016,32158.0,Columbia
+5,2017,32695.0,Columbia
+6,2018,29805.0,Columbia
+0,2012,16259.0,Columbus
+1,2013,16188.0,Columbus
+2,2014,12962.0,Columbus
+3,2015,12906.0,Columbus
+4,2016,14005.0,Columbus
+5,2017,13545.0,Columbus
+6,2018,11414.0,Columbus
+0,2012,4612.0,Connellsville
+1,2013,4815.0,Connellsville
+2,2014,4925.0,Connellsville
+3,2015,4871.0,Connellsville
+4,2016,5002.0,Connellsville
+5,2017,4762.0,Connellsville
+6,2018,4407.0,Connellsville
+0,2012,700.0,Connersville
+1,2013,771.0,Connersville
+2,2014,690.0,Connersville
+3,2015,770.0,Connersville
+4,2016,586.0,Connersville
+5,2017,583.0,Connersville
+6,2018,607.0,Connersville
+0,2012,29072.0,Corcoran
+1,2013,31542.0,Corcoran
+2,2014,34539.0,Corcoran
+3,2015,32331.0,Corcoran
+4,2016,30104.0,Corcoran
+5,2017,28440.0,Corcoran
+6,2018,24658.0,Corcoran
+0,2012,3623.0,Cornwells Heights
+1,2013,3215.0,Cornwells Heights
+2,2014,2091.0,Cornwells Heights
+3,2015,2271.0,Cornwells Heights
+4,2016,2966.0,Cornwells Heights
+5,2017,3073.0,Cornwells Heights
+6,2018,3673.0,Cornwells Heights
+0,2012,5919.0,Crawfordsville
+1,2013,6159.0,Crawfordsville
+2,2014,5679.0,Crawfordsville
+3,2015,5248.0,Crawfordsville
+4,2016,5705.0,Crawfordsville
+5,2017,5854.0,Crawfordsville
+6,2018,5660.0,Crawfordsville
+0,2012,4531.0,Creston
+1,2013,4621.0,Creston
+2,2014,4314.0,Creston
+3,2015,5017.0,Creston
+4,2016,3843.0,Creston
+5,2017,3797.0,Creston
+6,2018,3747.0,Creston
+0,2012,N/A,Crestview
+1,2013,N/A,Crestview
+2,2014,N/A,Crestview
+3,2015,N/A,Crestview
+4,2016,N/A,Crestview
+5,2017,N/A,Crestview
+6,2018,N/A,Crestview
+0,2012,45140.0,Croton-Harmon
+1,2013,48293.0,Croton-Harmon
+2,2014,49972.0,Croton-Harmon
+3,2015,48446.0,Croton-Harmon
+4,2016,45291.0,Croton-Harmon
+5,2017,45633.0,Croton-Harmon
+6,2018,43184.0,Croton-Harmon
+0,2012,12608.0,Culpeper
+1,2013,13677.0,Culpeper
+2,2014,14257.0,Culpeper
+3,2015,14508.0,Culpeper
+4,2016,15058.0,Culpeper
+5,2017,15412.0,Culpeper
+6,2018,14428.0,Culpeper
+0,2012,10746.0,Cumberland
+1,2013,11581.0,Cumberland
+2,2014,11556.0,Cumberland
+3,2015,11390.0,Cumberland
+4,2016,11492.0,Cumberland
+5,2017,11694.0,Cumberland
+6,2018,10896.0,Cumberland
+0,2012,3236.0,Cut Bank
+1,2013,2920.0,Cut Bank
+2,2014,2353.0,Cut Bank
+3,2015,2144.0,Cut Bank
+4,2016,2547.0,Cut Bank
+5,2017,2544.0,Cut Bank
+6,2018,2396.0,Cut Bank
+0,2012,54883.0,Dallas
+1,2013,55609.0,Dallas
+2,2014,49446.0,Dallas
+3,2015,44619.0,Dallas
+4,2016,41619.0,Dallas
+5,2017,47008.0,Dallas
+6,2018,46094.0,Dallas
+0,2012,8228.0,Danville
+1,2013,9697.0,Danville
+2,2014,7741.0,Danville
+3,2015,7736.0,Danville
+4,2016,7209.0,Danville
+5,2017,6575.0,Danville
+6,2018,6934.0,Danville
+0,2012,442.2,Davis
+1,2013,420.8,Davis
+2,2014,355.2,Davis
+3,2015,370.0,Davis
+4,2016,376.7,Davis
+5,2017,371.8,Davis
+6,2018,383.3,Davis
+0,2012,80023.0,Dearborn
+1,2013,80228.0,Dearborn
+2,2014,77506.0,Dearborn
+3,2015,75625.0,Dearborn
+4,2016,66221.0,Dearborn
+5,2017,71498.0,Dearborn
+6,2018,72270.0,Dearborn
+0,2012,31643.0,Deerfield Beach
+1,2013,29500.0,Deerfield Beach
+2,2014,27992.0,Deerfield Beach
+3,2015,26463.0,Deerfield Beach
+4,2016,24150.0,Deerfield Beach
+5,2017,23407.0,Deerfield Beach
+6,2018,21895.0,Deerfield Beach
+0,2012,2175.0,Del Rio
+1,2013,2443.0,Del Rio
+2,2014,2385.0,Del Rio
+3,2015,1960.0,Del Rio
+4,2016,1939.0,Del Rio
+5,2017,1764.0,Del Rio
+6,2018,1695.0,Del Rio
+0,2012,28557.0,Deland
+1,2013,26502.0,Deland
+2,2014,26063.0,Deland
+3,2015,24306.0,Deland
+4,2016,22348.0,Deland
+5,2017,20827.0,Deland
+6,2018,20677.0,Deland
+0,2012,13448.0,Delray Beach
+1,2013,13280.0,Delray Beach
+2,2014,13703.0,Delray Beach
+3,2015,14648.0,Delray Beach
+4,2016,13173.0,Delray Beach
+5,2017,13782.0,Delray Beach
+6,2018,13643.0,Delray Beach
+0,2012,1170.0,Deming
+1,2013,1382.0,Deming
+2,2014,1338.0,Deming
+3,2015,1453.0,Deming
+4,2016,1452.0,Deming
+5,2017,1469.0,Deming
+6,2018,1388.0,Deming
+0,2012,25308.0,Denair
+1,2013,28221.0,Denair
+2,2014,29196.0,Denair
+3,2015,29789.0,Denair
+4,2016,29197.0,Denair
+5,2017,29924.0,Denair
+6,2018,30492.0,Denair
+0,2012,4254.0,Denmark
+1,2013,4364.0,Denmark
+2,2014,4094.0,Denmark
+3,2015,3823.0,Denmark
+4,2016,3486.0,Denmark
+5,2017,3604.0,Denmark
+6,2018,3230.0,Denmark
+0,2012,110.9,Denver
+1,2013,105.2,Denver
+2,2014,109.1,Denver
+3,2015,124.2,Denver
+4,2016,136.4,Denver
+5,2017,151.2,Denver
+6,2018,141.5,Denver
+0,2012,65462.0,Detroit
+1,2013,69305.0,Detroit
+2,2014,61733.0,Detroit
+3,2015,60821.0,Detroit
+4,2016,50281.0,Detroit
+5,2017,61367.0,Detroit
+6,2018,65548.0,Detroit
+0,2012,4602.0,Detroit Lakes
+1,2013,5103.0,Detroit Lakes
+2,2014,4225.0,Detroit Lakes
+3,2015,4383.0,Detroit Lakes
+4,2016,4910.0,Detroit Lakes
+5,2017,4667.0,Detroit Lakes
+6,2018,4877.0,Detroit Lakes
+0,2012,5505.0,Devils Lake
+1,2013,5142.0,Devils Lake
+2,2014,3555.0,Devils Lake
+3,2015,3512.0,Devils Lake
+4,2016,4223.0,Devils Lake
+5,2017,4506.0,Devils Lake
+6,2018,4217.0,Devils Lake
+0,2012,8745.0,Dillon
+1,2013,9456.0,Dillon
+2,2014,8601.0,Dillon
+3,2015,8037.0,Dillon
+4,2016,7573.0,Dillon
+5,2017,6692.0,Dillon
+6,2018,5841.0,Dillon
+0,2012,5174.0,Dodge City
+1,2013,5149.0,Dodge City
+2,2014,5300.0,Dodge City
+3,2015,5048.0,Dodge City
+4,2016,4895.0,Dodge City
+5,2017,5208.0,Dodge City
+6,2018,5289.0,Dodge City
+0,2012,63896.0,Dover
+1,2013,61708.0,Dover
+2,2014,55144.0,Dover
+3,2015,46834.0,Dover
+4,2016,52457.0,Dover
+5,2017,59059.0,Dover
+6,2018,64053.0,Dover
+0,2012,3740.0,Dowagiac
+1,2013,4108.0,Dowagiac
+2,2014,4401.0,Dowagiac
+3,2015,4470.0,Dowagiac
+4,2016,4060.0,Dowagiac
+5,2017,4572.0,Dowagiac
+6,2018,4979.0,Dowagiac
+0,2012,65118.0,Downingtown
+1,2013,68732.0,Downingtown
+2,2014,59206.0,Downingtown
+3,2015,61299.0,Downingtown
+4,2016,77337.0,Downingtown
+5,2017,86806.0,Downingtown
+6,2018,81154.0,Downingtown
+0,2012,10649.0,Du Quoin
+1,2013,11340.0,Du Quoin
+2,2014,11259.0,Du Quoin
+3,2015,10123.0,Du Quoin
+4,2016,8902.0,Du Quoin
+5,2017,8665.0,Du Quoin
+6,2018,8293.0,Du Quoin
+0,2012,5385.0,Dunsmuir
+1,2013,5912.0,Dunsmuir
+2,2014,5892.0,Dunsmuir
+3,2015,6166.0,Dunsmuir
+4,2016,5958.0,Dunsmuir
+5,2017,5330.0,Dunsmuir
+6,2018,4654.0,Dunsmuir
+0,2012,12658.0,Durand
+1,2013,14002.0,Durand
+2,2014,14840.0,Durand
+3,2015,13407.0,Durand
+4,2016,12469.0,Durand
+5,2017,12692.0,Durand
+6,2018,13539.0,Durand
+0,2012,55721.0,Durham
+1,2013,60978.0,Durham
+2,2014,58893.0,Durham
+3,2015,52898.0,Durham
+4,2016,63046.0,Durham
+5,2017,58803.0,Durham
+6,2018,57772.0,Durham
+0,2012,55721.0,Durham
+1,2013,60978.0,Durham
+2,2014,58893.0,Durham
+3,2015,52898.0,Durham
+4,2016,63046.0,Durham
+5,2017,58803.0,Durham
+6,2018,57772.0,Durham
+0,2012,10184.0,Dwight
+1,2013,10763.0,Dwight
+2,2014,10995.0,Dwight
+3,2015,10191.0,Dwight
+4,2016,9361.0,Dwight
+5,2017,10058.0,Dwight
+6,2018,9913.0,Dwight
+0,2012,2756.0,Dyer
+1,2013,2934.0,Dyer
+2,2014,3392.0,Dyer
+3,2015,3463.0,Dyer
+4,2016,3082.0,Dyer
+5,2017,3142.0,Dyer
+6,2018,3198.0,Dyer
+0,2012,14877.0,East Glacier Park
+1,2013,14808.0,East Glacier Park
+2,2014,11954.0,East Glacier Park
+3,2015,12043.0,East Glacier Park
+4,2016,13811.0,East Glacier Park
+5,2017,14347.0,East Glacier Park
+6,2018,14414.0,East Glacier Park
+0,2012,66552.0,East Lansing
+1,2013,64552.0,East Lansing
+2,2014,64982.0,East Lansing
+3,2015,64643.0,East Lansing
+4,2016,65247.0,East Lansing
+5,2017,68216.0,East Lansing
+6,2018,68294.0,East Lansing
+0,2012,32644.0,Edmonds
+1,2013,29036.0,Edmonds
+2,2014,29366.0,Edmonds
+3,2015,29372.0,Edmonds
+4,2016,30438.0,Edmonds
+5,2017,30357.0,Edmonds
+6,2018,28796.0,Edmonds
+0,2012,28190.0,Effingham
+1,2013,28980.0,Effingham
+2,2014,29049.0,Effingham
+3,2015,26961.0,Effingham
+4,2016,25991.0,Effingham
+5,2017,25574.0,Effingham
+6,2018,24131.0,Effingham
+0,2012,12206.0,El Paso
+1,2013,12932.0,El Paso
+2,2014,13144.0,El Paso
+3,2015,13806.0,El Paso
+4,2016,14440.0,El Paso
+5,2017,14761.0,El Paso
+6,2018,14134.0,El Paso
+0,2012,111.7,Elizabethtown
+1,2013,122.7,Elizabethtown
+2,2014,108.1,Elizabethtown
+3,2015,109.4,Elizabethtown
+4,2016,105.5,Elizabethtown
+5,2017,100.6,Elizabethtown
+6,2018,99.6,Elizabethtown
+0,2012,18066.0,Elkhart
+1,2013,19993.0,Elkhart
+2,2014,21595.0,Elkhart
+3,2015,20657.0,Elkhart
+4,2016,21197.0,Elkhart
+5,2017,22452.0,Elkhart
+6,2018,21787.0,Elkhart
+0,2012,8278.0,Elko
+1,2013,9657.0,Elko
+2,2014,9436.0,Elko
+3,2015,8050.0,Elko
+4,2016,7550.0,Elko
+5,2017,7219.0,Elko
+6,2018,8656.0,Elko
+0,2012,6408.0,Elyria
+1,2013,6548.0,Elyria
+2,2014,6721.0,Elyria
+3,2015,6578.0,Elyria
+4,2016,6018.0,Elyria
+5,2017,7104.0,Elyria
+6,2018,7280.0,Elyria
+0,2012,579.9,Emeryville
+1,2013,590.6,Emeryville
+2,2014,565.4,Emeryville
+3,2015,578.0,Emeryville
+4,2016,575.9,Emeryville
+5,2017,575.2,Emeryville
+6,2018,588.0,Emeryville
+0,2012,Partial Data,Encinitas
+1,2013,Partial Data,Encinitas
+2,2014,Partial Data,Encinitas
+3,2015,Partial Data,Encinitas
+4,2016,Partial Data,Encinitas
+5,2017,Partial Data,Encinitas
+6,2018,Partial Data,Encinitas
+0,2012,3874.0,Ephrata
+1,2013,3750.0,Ephrata
+2,2014,3576.0,Ephrata
+3,2015,3443.0,Ephrata
+4,2016,3509.0,Ephrata
+5,2017,3742.0,Ephrata
+6,2018,3503.0,Ephrata
+0,2012,17794.0,Erie
+1,2013,18108.0,Erie
+2,2014,18311.0,Erie
+3,2015,16561.0,Erie
+4,2016,16213.0,Erie
+5,2017,16766.0,Erie
+6,2018,15072.0,Erie
+0,2012,3354.0,Essex
+1,2013,3869.0,Essex
+2,2014,2920.0,Essex
+3,2015,2456.0,Essex
+4,2016,3025.0,Essex
+5,2017,3253.0,Essex
+6,2018,3286.0,Essex
+0,2012,115.2,Eugene
+1,2013,115.8,Eugene
+2,2014,99.9,Eugene
+3,2015,97.8,Eugene
+4,2016,92.2,Eugene
+5,2017,92.1,Eugene
+6,2018,88.5,Eugene
+0,2012,43736.0,Everett
+1,2013,42394.0,Everett
+2,2014,41434.0,Everett
+3,2015,40335.0,Everett
+4,2016,41290.0,Everett
+5,2017,41525.0,Everett
+6,2018,38794.0,Everett
+0,2012,91.9,Exeter
+1,2013,101.5,Exeter
+2,2014,79.9,Exeter
+3,2015,65.2,Exeter
+4,2016,80.1,Exeter
+5,2017,84.2,Exeter
+6,2018,88.5,Exeter
+0,2012,108.7,Exton
+1,2013,112.5,Exton
+2,2014,105.4,Exton
+3,2015,112.9,Exton
+4,2016,133.9,Exton
+5,2017,149.7,Exton
+6,2018,142.7,Exton
+0,2012,Partial Data,Fairfield-Vacaville
+1,2013,Partial Data,Fairfield-Vacaville
+2,2014,Partial Data,Fairfield-Vacaville
+3,2015,Partial Data,Fairfield-Vacaville
+4,2016,Partial Data,Fairfield-Vacaville
+5,2017,Partial Data,Fairfield-Vacaville
+6,2018,Partial Data,Fairfield-Vacaville
+0,2012,20304.0,Fargo
+1,2013,22497.0,Fargo
+2,2014,23314.0,Fargo
+3,2015,22829.0,Fargo
+4,2016,21495.0,Fargo
+5,2017,20232.0,Fargo
+6,2018,18695.0,Fargo
+0,2012,52516.0,Fayetteville
+1,2013,52381.0,Fayetteville
+2,2014,53611.0,Fayetteville
+3,2015,56639.0,Fayetteville
+4,2016,53567.0,Fayetteville
+5,2017,49556.0,Fayetteville
+6,2018,50528.0,Fayetteville
+0,2012,40124.0,Flagstaff
+1,2013,39344.0,Flagstaff
+2,2014,38373.0,Flagstaff
+3,2015,40209.0,Flagstaff
+4,2016,40309.0,Flagstaff
+5,2017,38977.0,Flagstaff
+6,2018,42838.0,Flagstaff
+0,2012,37045.0,Flint
+1,2013,35216.0,Flint
+2,2014,35027.0,Flint
+3,2015,31803.0,Flint
+4,2016,29272.0,Flint
+5,2017,28287.0,Flint
+6,2018,27777.0,Flint
+0,2012,51561.0,Florence
+1,2013,51242.0,Florence
+2,2014,49438.0,Florence
+3,2015,50033.0,Florence
+4,2016,45539.0,Florence
+5,2017,42930.0,Florence
+6,2018,40187.0,Florence
+0,2012,9689.0,Fort Edward-Glens Falls
+1,2013,9291.0,Fort Edward-Glens Falls
+2,2014,9078.0,Fort Edward-Glens Falls
+3,2015,9500.0,Fort Edward-Glens Falls
+4,2016,10059.0,Fort Edward-Glens Falls
+5,2017,9789.0,Fort Edward-Glens Falls
+6,2018,9276.0,Fort Edward-Glens Falls
+0,2012,55415.0,Fort Lauderdale
+1,2013,52348.0,Fort Lauderdale
+2,2014,51199.0,Fort Lauderdale
+3,2015,46448.0,Fort Lauderdale
+4,2016,42010.0,Fort Lauderdale
+5,2017,40613.0,Fort Lauderdale
+6,2018,40249.0,Fort Lauderdale
+0,2012,7003.0,Fort Madison
+1,2013,7246.0,Fort Madison
+2,2014,6986.0,Fort Madison
+3,2015,6788.0,Fort Madison
+4,2016,6611.0,Fort Madison
+5,2017,6661.0,Fort Madison
+6,2018,5891.0,Fort Madison
+0,2012,3343.0,Fort Morgan
+1,2013,3196.0,Fort Morgan
+2,2014,3551.0,Fort Morgan
+3,2015,3705.0,Fort Morgan
+4,2016,3539.0,Fort Morgan
+5,2017,3448.0,Fort Morgan
+6,2018,3445.0,Fort Morgan
+0,2012,138.9,Fort Worth
+1,2013,126.3,Fort Worth
+2,2014,127.1,Fort Worth
+3,2015,107.7,Fort Worth
+4,2016,102.0,Fort Worth
+5,2017,112.2,Fort Worth
+6,2018,107.2,Fort Worth
+0,2012,2320.0,Framingham
+1,2013,2674.0,Framingham
+2,2014,2154.0,Framingham
+3,2015,1963.0,Framingham
+4,2016,1892.0,Framingham
+5,2017,1954.0,Framingham
+6,2018,1961.0,Framingham
+0,2012,7162.0,Fraser
+1,2013,7250.0,Fraser
+2,2014,6911.0,Fraser
+3,2015,8445.0,Fraser
+4,2016,9017.0,Fraser
+5,2017,8845.0,Fraser
+6,2018,10006.0,Fraser
+0,2012,50075.0,Fredericksburg
+1,2013,53849.0,Fredericksburg
+2,2014,55239.0,Fredericksburg
+3,2015,55295.0,Fredericksburg
+4,2016,56332.0,Fredericksburg
+5,2017,61396.0,Fredericksburg
+6,2018,60947.0,Fredericksburg
+0,2012,Partial Data,Freeport
+1,2013,Partial Data,Freeport
+2,2014,Partial Data,Freeport
+3,2015,Partial Data,Freeport
+4,2016,Partial Data,Freeport
+5,2017,Partial Data,Freeport
+6,2018,Partial Data,Freeport
+0,2012,43727.0,Fremont
+1,2013,38471.0,Fremont
+2,2014,34446.0,Fremont
+3,2015,35475.0,Fremont
+4,2016,40617.0,Fremont
+5,2017,41751.0,Fremont
+6,2018,44559.0,Fremont
+0,2012,384.4,Fresno
+1,2013,387.3,Fresno
+2,2014,380.4,Fresno
+3,2015,381.6,Fresno
+4,2016,362.5,Fresno
+5,2017,366.7,Fresno
+6,2018,371.6,Fresno
+0,2012,255.4,Fullerton
+1,2013,264.2,Fullerton
+2,2014,266.4,Fullerton
+3,2015,281.9,Fullerton
+4,2016,293.4,Fullerton
+5,2017,289.6,Fullerton
+6,2018,280.0,Fullerton
+0,2012,4038.0,Fulton
+1,2013,4588.0,Fulton
+2,2014,3922.0,Fulton
+3,2015,4138.0,Fulton
+4,2016,3710.0,Fulton
+5,2017,3562.0,Fulton
+6,2018,3439.0,Fulton
+0,2012,8055.0,Gainesville
+1,2013,6476.0,Gainesville
+2,2014,7178.0,Gainesville
+3,2015,7131.0,Gainesville
+4,2016,6337.0,Gainesville
+5,2017,6328.0,Gainesville
+6,2018,6658.0,Gainesville
+0,2012,8055.0,Gainesville
+1,2013,6476.0,Gainesville
+2,2014,7178.0,Gainesville
+3,2015,7131.0,Gainesville
+4,2016,6337.0,Gainesville
+5,2017,6328.0,Gainesville
+6,2018,6658.0,Gainesville
+0,2012,104.6,Galesburg
+1,2013,101.4,Galesburg
+2,2014,99.1,Galesburg
+3,2015,99.5,Galesburg
+4,2016,97.4,Galesburg
+5,2017,98.9,Galesburg
+6,2018,93.2,Galesburg
+0,2012,16197.0,Gallup
+1,2013,15355.0,Gallup
+2,2014,15918.0,Gallup
+3,2015,16170.0,Gallup
+4,2016,15561.0,Gallup
+5,2017,15481.0,Gallup
+6,2018,14597.0,Gallup
+0,2012,7887.0,Garden City
+1,2013,7355.0,Garden City
+2,2014,7870.0,Garden City
+3,2015,7972.0,Garden City
+4,2016,7378.0,Garden City
+5,2017,6966.0,Garden City
+6,2018,7056.0,Garden City
+0,2012,1565.0,Gastonia
+1,2013,1741.0,Gastonia
+2,2014,1463.0,Gastonia
+3,2015,1508.0,Gastonia
+4,2016,1330.0,Gastonia
+5,2017,1345.0,Gastonia
+6,2018,1251.0,Gastonia
+0,2012,2862.0,Gilman
+1,2013,3257.0,Gilman
+2,2014,3333.0,Gilman
+3,2015,3138.0,Gilman
+4,2016,2540.0,Gilman
+5,2017,2372.0,Gilman
+6,2018,2317.0,Gilman
+0,2012,5563.0,Glasgow
+1,2013,5416.0,Glasgow
+2,2014,3967.0,Glasgow
+3,2015,4109.0,Glasgow
+4,2016,4762.0,Glasgow
+5,2017,4945.0,Glasgow
+6,2018,5434.0,Glasgow
+0,2012,40070.0,Glendale
+1,2013,41936.0,Glendale
+2,2014,43921.0,Glendale
+3,2015,44128.0,Glendale
+4,2016,45401.0,Glendale
+5,2017,47515.0,Glendale
+6,2018,44815.0,Glendale
+0,2012,71827.0,Glenview
+1,2013,65849.0,Glenview
+2,2014,58882.0,Glenview
+3,2015,58143.0,Glenview
+4,2016,55340.0,Glenview
+5,2017,55216.0,Glenview
+6,2018,55497.0,Glenview
+0,2012,32427.0,Glenwood Springs
+1,2013,32154.0,Glenwood Springs
+2,2014,33737.0,Glenwood Springs
+3,2015,39056.0,Glenwood Springs
+4,2016,45798.0,Glenwood Springs
+5,2017,44925.0,Glenwood Springs
+6,2018,43467.0,Glenwood Springs
+0,2012,57.0,Goleta
+1,2013,70.3,Goleta
+2,2014,74.2,Goleta
+3,2015,75.3,Goleta
+4,2016,75.9,Goleta
+5,2017,77.9,Goleta
+6,2018,110.8,Goleta
+0,2012,3528.0,Granby
+1,2013,3408.0,Granby
+2,2014,3347.0,Granby
+3,2015,3945.0,Granby
+4,2016,4677.0,Granby
+5,2017,4950.0,Granby
+6,2018,5034.0,Granby
+0,2012,20028.0,Grand Forks
+1,2013,19141.0,Grand Forks
+2,2014,13976.0,Grand Forks
+3,2015,12131.0,Grand Forks
+4,2016,13882.0,Grand Forks
+5,2017,13891.0,Grand Forks
+6,2018,13346.0,Grand Forks
+0,2012,31570.0,Grand Junction
+1,2013,29322.0,Grand Junction
+2,2014,29279.0,Grand Junction
+3,2015,29509.0,Grand Junction
+4,2016,31861.0,Grand Junction
+5,2017,30440.0,Grand Junction
+6,2018,32146.0,Grand Junction
+0,2012,55769.0,Grand Rapids
+1,2013,50809.0,Grand Rapids
+2,2014,47015.0,Grand Rapids
+3,2015,43532.0,Grand Rapids
+4,2016,38191.0,Grand Rapids
+5,2017,38706.0,Grand Rapids
+6,2018,39974.0,Grand Rapids
+0,2012,2478.0,Green River
+1,2013,2873.0,Green River
+2,2014,2770.0,Green River
+3,2015,2270.0,Green River
+4,2016,2589.0,Green River
+5,2017,2235.0,Green River
+6,2018,2605.0,Green River
+0,2012,Partial Data,Greenfield
+1,2013,Partial Data,Greenfield
+2,2014,Partial Data,Greenfield
+3,2015,Partial Data,Greenfield
+4,2016,Partial Data,Greenfield
+5,2017,Partial Data,Greenfield
+6,2018,Partial Data,Greenfield
+0,2012,131.3,Greensboro
+1,2013,135.9,Greensboro
+2,2014,131.2,Greensboro
+3,2015,121.4,Greensboro
+4,2016,111.7,Greensboro
+5,2017,109.0,Greensboro
+6,2018,116.5,Greensboro
+0,2012,13395.0,Greensburg
+1,2013,14248.0,Greensburg
+2,2014,15023.0,Greensburg
+3,2015,14773.0,Greensburg
+4,2016,13552.0,Greensburg
+5,2017,13633.0,Greensburg
+6,2018,12643.0,Greensburg
+0,2012,12565.0,Greenville
+1,2013,12021.0,Greenville
+2,2014,12078.0,Greenville
+3,2015,11913.0,Greenville
+4,2016,11935.0,Greenville
+5,2017,14134.0,Greenville
+6,2018,12172.0,Greenville
+0,2012,15392.0,Greenwood
+1,2013,15434.0,Greenwood
+2,2014,14840.0,Greenwood
+3,2015,15170.0,Greenwood
+4,2016,14905.0,Greenwood
+5,2017,14306.0,Greenwood
+6,2018,13794.0,Greenwood
+0,2012,18005.0,Grover Beach
+1,2013,19158.0,Grover Beach
+2,2014,19523.0,Grover Beach
+3,2015,19437.0,Grover Beach
+4,2016,18986.0,Grover Beach
+5,2017,18878.0,Grover Beach
+6,2018,19758.0,Grover Beach
+0,2012,11250.0,Guadalupe-Santa Maria
+1,2013,11719.0,Guadalupe-Santa Maria
+2,2014,12162.0,Guadalupe-Santa Maria
+3,2015,12718.0,Guadalupe-Santa Maria
+4,2016,12226.0,Guadalupe-Santa Maria
+5,2017,12426.0,Guadalupe-Santa Maria
+6,2018,13137.0,Guadalupe-Santa Maria
+0,2012,N/A,Gulfport
+1,2013,N/A,Gulfport
+2,2014,N/A,Gulfport
+3,2015,N/A,Gulfport
+4,2016,N/A,Gulfport
+5,2017,N/A,Gulfport
+6,2018,N/A,Gulfport
+0,2012,N/A,Guthrie
+1,2013,N/A,Guthrie
+2,2014,N/A,Guthrie
+3,2015,N/A,Guthrie
+4,2016,N/A,Guthrie
+5,2017,N/A,Guthrie
+6,2018,N/A,Guthrie
+0,2012,4826.0,Hamlet
+1,2013,4882.0,Hamlet
+2,2014,4744.0,Hamlet
+3,2015,4944.0,Hamlet
+4,2016,4698.0,Hamlet
+5,2017,4376.0,Hamlet
+6,2018,4005.0,Hamlet
+0,2012,14999.0,Hammond
+1,2013,15354.0,Hammond
+2,2014,14998.0,Hammond
+3,2015,13808.0,Hammond
+4,2016,12111.0,Hammond
+5,2017,10799.0,Hammond
+6,2018,9346.0,Hammond
+0,2012,6411.0,Hammond-Whiting
+1,2013,7763.0,Hammond-Whiting
+2,2014,7701.0,Hammond-Whiting
+3,2015,7449.0,Hammond-Whiting
+4,2016,5952.0,Hammond-Whiting
+5,2017,6326.0,Hammond-Whiting
+6,2018,5788.0,Hammond-Whiting
+0,2012,207.6,Hanford
+1,2013,221.9,Hanford
+2,2014,217.2,Hanford
+3,2015,211.5,Hanford
+4,2016,198.2,Hanford
+5,2017,193.3,Hanford
+6,2018,187.8,Hanford
+0,2012,5483.0,Harpers Ferry
+1,2013,6287.0,Harpers Ferry
+2,2014,6313.0,Harpers Ferry
+3,2015,6314.0,Harpers Ferry
+4,2016,7348.0,Harpers Ferry
+5,2017,8228.0,Harpers Ferry
+6,2018,7612.0,Harpers Ferry
+0,2012,561.4,Harrisburg
+1,2013,563.9,Harrisburg
+2,2014,491.5,Harrisburg
+3,2015,503.5,Harrisburg
+4,2016,501.0,Harrisburg
+5,2017,496.9,Harrisburg
+6,2018,507.2,Harrisburg
+0,2012,175.4,Hartford
+1,2013,183.5,Hartford
+2,2014,176.3,Hartford
+3,2015,169.4,Hartford
+4,2016,136.6,Hartford
+5,2017,125.7,Hartford
+6,2018,147.5,Hartford
+0,2012,5358.0,Hastings
+1,2013,5865.0,Hastings
+2,2014,5601.0,Hastings
+3,2015,5433.0,Hastings
+4,2016,5104.0,Hastings
+5,2017,5214.0,Hastings
+6,2018,5304.0,Hastings
+0,2012,12951.0,Hattiesburg
+1,2013,13056.0,Hattiesburg
+2,2014,11448.0,Hattiesburg
+3,2015,9940.0,Hattiesburg
+4,2016,9552.0,Hattiesburg
+5,2017,8588.0,Hattiesburg
+6,2018,8685.0,Hattiesburg
+0,2012,41530.0,Haverhill
+1,2013,44660.0,Haverhill
+2,2014,38481.0,Haverhill
+3,2015,34857.0,Haverhill
+4,2016,44510.0,Haverhill
+5,2017,44827.0,Haverhill
+6,2018,42803.0,Haverhill
+0,2012,14198.0,Havre
+1,2013,13392.0,Havre
+2,2014,11343.0,Havre
+3,2015,11181.0,Havre
+4,2016,11756.0,Havre
+5,2017,11570.0,Havre
+6,2018,11102.0,Havre
+0,2012,35329.0,Hayward
+1,2013,35409.0,Hayward
+2,2014,35798.0,Hayward
+3,2015,40631.0,Hayward
+4,2016,47351.0,Hayward
+5,2017,50361.0,Hayward
+6,2018,57993.0,Hayward
+0,2012,1960.0,Hazlehurst
+1,2013,1728.0,Hazlehurst
+2,2014,1994.0,Hazlehurst
+3,2015,1926.0,Hazlehurst
+4,2016,1574.0,Hazlehurst
+5,2017,1660.0,Hazlehurst
+6,2018,1332.0,Hazlehurst
+0,2012,2201.0,Helper
+1,2013,2245.0,Helper
+2,2014,2034.0,Helper
+3,2015,2092.0,Helper
+4,2016,2145.0,Helper
+5,2017,2132.0,Helper
+6,2018,2261.0,Helper
+0,2012,17876.0,Hermann
+1,2013,18480.0,Hermann
+2,2014,20348.0,Hermann
+3,2015,22041.0,Hermann
+4,2016,23984.0,Hermann
+5,2017,25439.0,Hermann
+6,2018,25890.0,Hermann
+0,2012,38358.0,High Point
+1,2013,40302.0,High Point
+2,2014,38573.0,High Point
+3,2015,37224.0,High Point
+4,2016,33518.0,High Point
+5,2017,30818.0,High Point
+6,2018,31048.0,High Point
+0,2012,8742.0,Hinton
+1,2013,8897.0,Hinton
+2,2014,2902.0,Hinton
+3,2015,2706.0,Hinton
+4,2016,7342.0,Hinton
+5,2017,4463.0,Hinton
+6,2018,5836.0,Hinton
+0,2012,2296.0,Holdrege
+1,2013,2335.0,Holdrege
+2,2014,2247.0,Holdrege
+3,2015,2345.0,Holdrege
+4,2016,2237.0,Holdrege
+5,2017,2002.0,Holdrege
+6,2018,2225.0,Holdrege
+0,2012,39038.0,Holland
+1,2013,38418.0,Holland
+2,2014,38057.0,Holland
+3,2015,36378.0,Holland
+4,2016,34536.0,Holland
+5,2017,36046.0,Holland
+6,2018,36288.0,Holland
+0,2012,38012.0,Hollywood
+1,2013,34032.0,Hollywood
+2,2014,32359.0,Hollywood
+3,2015,28019.0,Hollywood
+4,2016,25739.0,Hollywood
+5,2017,24312.0,Hollywood
+6,2018,22348.0,Hollywood
+0,2012,Partial Data,Holyoke
+1,2013,Partial Data,Holyoke
+2,2014,Partial Data,Holyoke
+3,2015,Partial Data,Holyoke
+4,2016,Partial Data,Holyoke
+5,2017,Partial Data,Holyoke
+6,2018,Partial Data,Holyoke
+0,2012,42560.0,Homewood
+1,2013,46003.0,Homewood
+2,2014,44218.0,Homewood
+3,2015,41148.0,Homewood
+4,2016,36709.0,Homewood
+5,2017,36446.0,Homewood
+6,2018,35878.0,Homewood
+0,2012,Partial Data,Hope
+1,2013,Partial Data,Hope
+2,2014,Partial Data,Hope
+3,2015,Partial Data,Hope
+4,2016,Partial Data,Hope
+5,2017,Partial Data,Hope
+6,2018,Partial Data,Hope
+0,2012,19982.0,Houston
+1,2013,21188.0,Houston
+2,2014,20258.0,Houston
+3,2015,20137.0,Houston
+4,2016,19499.0,Houston
+5,2017,19400.0,Houston
+6,2018,19952.0,Houston
+0,2012,164.7,Hudson
+1,2013,172.5,Hudson
+2,2014,185.6,Hudson
+3,2015,194.7,Hudson
+4,2016,203.3,Hudson
+5,2017,215.0,Hudson
+6,2018,219.8,Hudson
+0,2012,5837.0,Huntingdon
+1,2013,6392.0,Huntingdon
+2,2014,6801.0,Huntingdon
+3,2015,6616.0,Huntingdon
+4,2016,6039.0,Huntingdon
+5,2017,5673.0,Huntingdon
+6,2018,5766.0,Huntingdon
+0,2012,11713.0,Huntington
+1,2013,11152.0,Huntington
+2,2014,5889.0,Huntington
+3,2015,5885.0,Huntington
+4,2016,10682.0,Huntington
+5,2017,6860.0,Huntington
+6,2018,10248.0,Huntington
+0,2012,5239.0,Hutchinson
+1,2013,5303.0,Hutchinson
+2,2014,5312.0,Hutchinson
+3,2015,4925.0,Hutchinson
+4,2016,4691.0,Hutchinson
+5,2017,4294.0,Hutchinson
+6,2018,4415.0,Hutchinson
+0,2012,9809.0,Independence
+1,2013,9725.0,Independence
+2,2014,8990.0,Independence
+3,2015,8766.0,Independence
+4,2016,7973.0,Independence
+5,2017,7321.0,Independence
+6,2018,6683.0,Independence
+0,2012,34114.0,Indianapolis
+1,2013,35300.0,Indianapolis
+2,2014,32177.0,Indianapolis
+3,2015,29581.0,Indianapolis
+4,2016,30738.0,Indianapolis
+5,2017,31866.0,Indianapolis
+6,2018,28804.0,Indianapolis
+0,2012,304.8,Irvine
+1,2013,317.3,Irvine
+2,2014,311.5,Irvine
+3,2015,330.1,Irvine
+4,2016,354.2,Irvine
+5,2017,333.6,Irvine
+6,2018,365.4,Irvine
+0,2012,388.2,Iselin
+1,2013,377.8,Iselin
+2,2014,376.6,Iselin
+3,2015,362.0,Iselin
+4,2016,363.5,Iselin
+5,2017,365.2,Iselin
+6,2018,364.7,Iselin
+0,2012,Partial Data,Jackson
+1,2013,Partial Data,Jackson
+2,2014,Partial Data,Jackson
+3,2015,Partial Data,Jackson
+4,2016,Partial Data,Jackson
+5,2017,Partial Data,Jackson
+6,2018,Partial Data,Jackson
+0,2012,Partial Data,Jackson
+1,2013,Partial Data,Jackson
+2,2014,Partial Data,Jackson
+3,2015,Partial Data,Jackson
+4,2016,Partial Data,Jackson
+5,2017,Partial Data,Jackson
+6,2018,Partial Data,Jackson
+0,2012,76940.0,Jacksonville
+1,2013,93632.0,Jacksonville
+2,2014,77553.0,Jacksonville
+3,2015,70836.0,Jacksonville
+4,2016,70066.0,Jacksonville
+5,2017,70049.0,Jacksonville
+6,2018,66085.0,Jacksonville
+0,2012,49062.0,Jefferson City
+1,2013,49125.0,Jefferson City
+2,2014,48508.0,Jefferson City
+3,2015,43227.0,Jefferson City
+4,2016,40193.0,Jefferson City
+5,2017,39419.0,Jefferson City
+6,2018,38748.0,Jefferson City
+0,2012,10086.0,Jesup
+1,2013,10692.0,Jesup
+2,2014,10636.0,Jesup
+3,2015,10280.0,Jesup
+4,2016,10076.0,Jesup
+5,2017,9648.0,Jesup
+6,2018,9461.0,Jesup
+0,2012,23436.0,Johnstown
+1,2013,23185.0,Johnstown
+2,2014,22931.0,Johnstown
+3,2015,24039.0,Johnstown
+4,2016,21875.0,Johnstown
+5,2017,21621.0,Johnstown
+6,2018,19407.0,Johnstown
+0,2012,62323.0,Joliet
+1,2013,69161.0,Joliet
+2,2014,69408.0,Joliet
+3,2015,63758.0,Joliet
+4,2016,57528.0,Joliet
+5,2017,60607.0,Joliet
+6,2018,60618.0,Joliet
+0,2012,122.9,Kalamazoo
+1,2013,127.1,Kalamazoo
+2,2014,118.7,Kalamazoo
+3,2015,116.7,Kalamazoo
+4,2016,109.2,Kalamazoo
+5,2017,113.3,Kalamazoo
+6,2018,120.3,Kalamazoo
+0,2012,21892.0,Kankakee
+1,2013,23825.0,Kankakee
+2,2014,22721.0,Kankakee
+3,2015,21635.0,Kankakee
+4,2016,20013.0,Kankakee
+5,2017,19586.0,Kankakee
+6,2018,19109.0,Kankakee
+0,2012,18748.0,Kannapolis
+1,2013,19205.0,Kannapolis
+2,2014,18292.0,Kannapolis
+3,2015,18713.0,Kannapolis
+4,2016,18345.0,Kannapolis
+5,2017,18043.0,Kannapolis
+6,2018,18858.0,Kannapolis
+0,2012,157.6,Kansas City
+1,2013,160.7,Kansas City
+2,2014,153.8,Kansas City
+3,2015,151.6,Kansas City
+4,2016,151.0,Kansas City
+5,2017,157.6,Kansas City
+6,2018,151.9,Kansas City
+0,2012,26560.0,Kelso-Longview
+1,2013,28892.0,Kelso-Longview
+2,2014,30321.0,Kelso-Longview
+3,2015,30851.0,Kelso-Longview
+4,2016,31407.0,Kelso-Longview
+5,2017,29650.0,Kelso-Longview
+6,2018,31011.0,Kelso-Longview
+0,2012,16336.0,Kewanee
+1,2013,16306.0,Kewanee
+2,2014,17005.0,Kewanee
+3,2015,15731.0,Kewanee
+4,2016,16996.0,Kewanee
+5,2017,17841.0,Kewanee
+6,2018,17236.0,Kewanee
+0,2012,10768.0,Kingman
+1,2013,10523.0,Kingman
+2,2014,9763.0,Kingman
+3,2015,10794.0,Kingman
+4,2016,9904.0,Kingman
+5,2017,9944.0,Kingman
+6,2018,9066.0,Kingman
+0,2012,161.2,Kingston
+1,2013,150.8,Kingston
+2,2014,153.2,Kingston
+3,2015,156.4,Kingston
+4,2016,159.8,Kingston
+5,2017,163.1,Kingston
+6,2018,169.5,Kingston
+0,2012,14812.0,Kingstree
+1,2013,14669.0,Kingstree
+2,2014,13684.0,Kingstree
+3,2015,13849.0,Kingstree
+4,2016,12132.0,Kingstree
+5,2017,11187.0,Kingstree
+6,2018,10450.0,Kingstree
+0,2012,56734.0,Kirkwood
+1,2013,58514.0,Kirkwood
+2,2014,58013.0,Kirkwood
+3,2015,57645.0,Kirkwood
+4,2016,54763.0,Kirkwood
+5,2017,57518.0,Kirkwood
+6,2018,54369.0,Kirkwood
+0,2012,48521.0,Kissimmee
+1,2013,44906.0,Kissimmee
+2,2014,43543.0,Kissimmee
+3,2015,41093.0,Kissimmee
+4,2016,37366.0,Kissimmee
+5,2017,35416.0,Kissimmee
+6,2018,34774.0,Kissimmee
+0,2012,32499.0,Klamath Falls
+1,2013,33456.0,Klamath Falls
+2,2014,32197.0,Klamath Falls
+3,2015,30697.0,Klamath Falls
+4,2016,33410.0,Klamath Falls
+5,2017,31033.0,Klamath Falls
+6,2018,36065.0,Klamath Falls
+0,2012,28072.0,La Crosse
+1,2013,27202.0,La Crosse
+2,2014,23414.0,La Crosse
+3,2015,23891.0,La Crosse
+4,2016,26014.0,La Crosse
+5,2017,26673.0,La Crosse
+6,2018,25622.0,La Crosse
+0,2012,14845.0,La Grange Road
+1,2013,15036.0,La Grange Road
+2,2014,13844.0,La Grange Road
+3,2015,13264.0,La Grange Road
+4,2016,12045.0,La Grange Road
+5,2017,12643.0,La Grange Road
+6,2018,10925.0,La Grange Road
+0,2012,6566.0,La Junta
+1,2013,6711.0,La Junta
+2,2014,6918.0,La Junta
+3,2015,7256.0,La Junta
+4,2016,7080.0,La Junta
+5,2017,7009.0,La Junta
+6,2018,7373.0,La Junta
+0,2012,9559.0,La Plata
+1,2013,9724.0,La Plata
+2,2014,10421.0,La Plata
+3,2015,11519.0,La Plata
+4,2016,11675.0,La Plata
+5,2017,11647.0,La Plata
+6,2018,10956.0,La Plata
+0,2012,59595.0,Lacey
+1,2013,62114.0,Lacey
+2,2014,62023.0,Lacey
+3,2015,61021.0,Lacey
+4,2016,62431.0,Lacey
+5,2017,62583.0,Lacey
+6,2018,65800.0,Lacey
+0,2012,5942.0,Lafayette
+1,2013,6560.0,Lafayette
+2,2014,6524.0,Lafayette
+3,2015,6676.0,Lafayette
+4,2016,6696.0,Lafayette
+5,2017,6154.0,Lafayette
+6,2018,6151.0,Lafayette
+0,2012,5942.0,Lafayette
+1,2013,6560.0,Lafayette
+2,2014,6524.0,Lafayette
+3,2015,6676.0,Lafayette
+4,2016,6696.0,Lafayette
+5,2017,6154.0,Lafayette
+6,2018,6151.0,Lafayette
+0,2012,Partial Data,Laguna Niguel
+1,2013,Partial Data,Laguna Niguel
+2,2014,Partial Data,Laguna Niguel
+3,2015,Partial Data,Laguna Niguel
+4,2016,Partial Data,Laguna Niguel
+5,2017,Partial Data,Laguna Niguel
+6,2018,Partial Data,Laguna Niguel
+0,2012,3438.0,Lake Charles
+1,2013,3856.0,Lake Charles
+2,2014,3742.0,Lake Charles
+3,2015,3920.0,Lake Charles
+4,2016,3538.0,Lake Charles
+5,2017,3719.0,Lake Charles
+6,2018,3782.0,Lake Charles
+0,2012,N/A,Lake City
+1,2013,N/A,Lake City
+2,2014,N/A,Lake City
+3,2015,N/A,Lake City
+4,2016,N/A,Lake City
+5,2017,N/A,Lake City
+6,2018,N/A,Lake City
+0,2012,25430.0,Lakeland - Departure 92 North Arrival 91 South
+1,2013,22621.0,Lakeland - Departure 92 North Arrival 91 South
+2,2014,21663.0,Lakeland - Departure 92 North Arrival 91 South
+3,2015,21519.0,Lakeland - Departure 92 North Arrival 91 South
+4,2016,20475.0,Lakeland - Departure 92 North Arrival 91 South
+5,2017,19479.0,Lakeland - Departure 92 North Arrival 91 South
+6,2018,18952.0,Lakeland - Departure 92 North Arrival 91 South
+0,2012,1936.0,Lamar
+1,2013,1823.0,Lamar
+2,2014,1812.0,Lamar
+3,2015,1928.0,Lamar
+4,2016,1879.0,Lamar
+5,2017,1673.0,Lamar
+6,2018,1588.0,Lamar
+0,2012,12589.0,Lamy
+1,2013,12551.0,Lamy
+2,2014,11652.0,Lamy
+3,2015,12390.0,Lamy
+4,2016,11373.0,Lamy
+5,2017,10768.0,Lamy
+6,2018,9731.0,Lamy
+0,2012,549.5,Lancaster
+1,2013,570.6,Lancaster
+2,2014,521.7,Lancaster
+3,2015,533.3,Lancaster
+4,2016,551.0,Lancaster
+5,2017,547.9,Lancaster
+6,2018,561.4,Lancaster
+0,2012,9940.0,Lapeer
+1,2013,9997.0,Lapeer
+2,2014,10774.0,Lapeer
+3,2015,9527.0,Lapeer
+4,2016,9396.0,Lapeer
+5,2017,9406.0,Lapeer
+6,2018,8948.0,Lapeer
+0,2012,5653.0,Las Vegas
+1,2013,5376.0,Las Vegas
+2,2014,5047.0,Las Vegas
+3,2015,5345.0,Las Vegas
+4,2016,4851.0,Las Vegas
+5,2017,4487.0,Las Vegas
+6,2018,4629.0,Las Vegas
+0,2012,4669.0,Latrobe
+1,2013,4447.0,Latrobe
+2,2014,4631.0,Latrobe
+3,2015,4850.0,Latrobe
+4,2016,4538.0,Latrobe
+5,2017,4246.0,Latrobe
+6,2018,4068.0,Latrobe
+0,2012,5484.0,Laurel
+1,2013,5264.0,Laurel
+2,2014,4487.0,Laurel
+3,2015,3650.0,Laurel
+4,2016,3575.0,Laurel
+5,2017,3614.0,Laurel
+6,2018,3924.0,Laurel
+0,2012,6608.0,Lawrence
+1,2013,7204.0,Lawrence
+2,2014,8017.0,Lawrence
+3,2015,8319.0,Lawrence
+4,2016,8465.0,Lawrence
+5,2017,9834.0,Lawrence
+6,2018,8362.0,Lawrence
+0,2012,12489.0,Leavenworth
+1,2013,8929.0,Leavenworth
+2,2014,9705.0,Leavenworth
+3,2015,7529.0,Leavenworth
+4,2016,7883.0,Leavenworth
+5,2017,8041.0,Leavenworth
+6,2018,7443.0,Leavenworth
+0,2012,29827.0,Lees Summit
+1,2013,30506.0,Lees Summit
+2,2014,28971.0,Lees Summit
+3,2015,28589.0,Lees Summit
+4,2016,26547.0,Lees Summit
+5,2017,27078.0,Lees Summit
+6,2018,26565.0,Lees Summit
+0,2012,8315.0,Lewistown
+1,2013,9102.0,Lewistown
+2,2014,9375.0,Lewistown
+3,2015,9125.0,Lewistown
+4,2016,9514.0,Lewistown
+5,2017,9147.0,Lewistown
+6,2018,8676.0,Lewistown
+0,2012,608.0,Lexington - Barbecue Festival
+1,2013,542.0,Lexington - Barbecue Festival
+2,2014,489.0,Lexington - Barbecue Festival
+3,2015,645.0,Lexington - Barbecue Festival
+4,2016,527.0,Lexington - Barbecue Festival
+5,2017,513.0,Lexington - Barbecue Festival
+6,2018,726.0,Lexington - Barbecue Festival
+0,2012,6626.0,Libby
+1,2013,6490.0,Libby
+2,2014,5416.0,Libby
+3,2015,4793.0,Libby
+4,2016,4963.0,Libby
+5,2017,5068.0,Libby
+6,2018,4958.0,Libby
+0,2012,12468.0,Lincoln
+1,2013,13160.0,Lincoln
+2,2014,13313.0,Lincoln
+3,2015,15384.0,Lincoln
+4,2016,14726.0,Lincoln
+5,2017,15964.0,Lincoln
+6,2018,15200.0,Lincoln
+0,2012,12468.0,Lincoln
+1,2013,13160.0,Lincoln
+2,2014,13313.0,Lincoln
+3,2015,15384.0,Lincoln
+4,2016,14726.0,Lincoln
+5,2017,15964.0,Lincoln
+6,2018,15200.0,Lincoln
+0,2012,23577.0,Little Rock
+1,2013,21846.0,Little Rock
+2,2014,19272.0,Little Rock
+3,2015,19493.0,Little Rock
+4,2016,18130.0,Little Rock
+5,2017,20321.0,Little Rock
+6,2018,19218.0,Little Rock
+0,2012,8439.0,Lodi
+1,2013,9695.0,Lodi
+2,2014,9838.0,Lodi
+3,2015,10185.0,Lodi
+4,2016,8617.0,Lodi
+5,2017,7978.0,Lodi
+6,2018,9279.0,Lodi
+0,2012,7096.0,Lompoc
+1,2013,8341.0,Lompoc
+2,2014,8096.0,Lompoc
+3,2015,8158.0,Lompoc
+4,2016,7921.0,Lompoc
+5,2017,7823.0,Lompoc
+6,2018,9135.0,Lompoc
+0,2012,48525.0,Longview
+1,2013,40646.0,Longview
+2,2014,37874.0,Longview
+3,2015,31813.0,Longview
+4,2016,28964.0,Longview
+5,2017,33443.0,Longview
+6,2018,34392.0,Longview
+0,2012,483.0,Lordsburg
+1,2013,736.0,Lordsburg
+2,2014,729.0,Lordsburg
+3,2015,842.0,Lordsburg
+4,2016,579.0,Lordsburg
+5,2017,742.0,Lordsburg
+6,2018,733.0,Lordsburg
+0,2012,264.0,Lorton - Auto Train Only
+1,2013,265.2,Lorton - Auto Train Only
+2,2014,273.6,Lorton - Auto Train Only
+3,2015,271.4,Lorton - Auto Train Only
+4,2016,238.3,Lorton - Auto Train Only
+5,2017,228.9,Lorton - Auto Train Only
+6,2018,224.8,Lorton - Auto Train Only
+0,2012,1241.2,Los Angeles - Union Station
+1,2013,1241.6,Los Angeles - Union Station
+2,2014,1241.2,Los Angeles - Union Station
+3,2015,1319.0,Los Angeles - Union Station
+4,2016,1365.2,Los Angeles - Union Station
+5,2017,1410.9,Los Angeles - Union Station
+6,2018,1446.9,Los Angeles - Union Station
+0,2012,84853.0,Lynchburg
+1,2013,91863.0,Lynchburg
+2,2014,85152.0,Lynchburg
+3,2015,84045.0,Lynchburg
+4,2016,81594.0,Lynchburg
+5,2017,80856.0,Lynchburg
+6,2018,56866.0,Lynchburg
+0,2012,78520.0,Macomb
+1,2013,75321.0,Macomb
+2,2014,71278.0,Macomb
+3,2015,70336.0,Macomb
+4,2016,66874.0,Macomb
+5,2017,65759.0,Macomb
+6,2018,60081.0,Macomb
+0,2012,24770.0,Madera
+1,2013,27474.0,Madera
+2,2014,28993.0,Madera
+3,2015,27718.0,Madera
+4,2016,27136.0,Madera
+5,2017,27751.0,Madera
+6,2018,28384.0,Madera
+0,2012,N/A,Madison
+1,2013,N/A,Madison
+2,2014,N/A,Madison
+3,2015,N/A,Madison
+4,2016,N/A,Madison
+5,2017,N/A,Madison
+6,2018,N/A,Madison
+0,2012,3466.0,Malta
+1,2013,3956.0,Malta
+2,2014,3165.0,Malta
+3,2015,3211.0,Malta
+4,2016,3829.0,Malta
+5,2017,3695.0,Malta
+6,2018,3570.0,Malta
+0,2012,2105.0,Malvern
+1,2013,2101.0,Malvern
+2,2014,1896.0,Malvern
+3,2015,1760.0,Malvern
+4,2016,1729.0,Malvern
+5,2017,1688.0,Malvern
+6,2018,1693.0,Malvern
+0,2012,19917.0,Manassas
+1,2013,20896.0,Manassas
+2,2014,20547.0,Manassas
+3,2015,21153.0,Manassas
+4,2016,21538.0,Manassas
+5,2017,22295.0,Manassas
+6,2018,23048.0,Manassas
+0,2012,10688.0,Maricopa
+1,2013,12801.0,Maricopa
+2,2014,12612.0,Maricopa
+3,2015,12066.0,Maricopa
+4,2016,11120.0,Maricopa
+5,2017,11696.0,Maricopa
+6,2018,11622.0,Maricopa
+0,2012,Partial Data,Marks
+1,2013,Partial Data,Marks
+2,2014,Partial Data,Marks
+3,2015,Partial Data,Marks
+4,2016,Partial Data,Marks
+5,2017,Partial Data,Marks
+6,2018,Partial Data,Marks
+0,2012,10025.0,Marshall
+1,2013,10555.0,Marshall
+2,2014,10184.0,Marshall
+3,2015,9390.0,Marshall
+4,2016,8005.0,Marshall
+5,2017,8404.0,Marshall
+6,2018,8371.0,Marshall
+0,2012,472.5,Martinez
+1,2013,469.9,Martinez
+2,2014,356.4,Martinez
+3,2015,361.0,Martinez
+4,2016,361.6,Martinez
+5,2017,343.4,Martinez
+6,2018,341.6,Martinez
+0,2012,8594.0,Martinsburg
+1,2013,9276.0,Martinsburg
+2,2014,9781.0,Martinsburg
+3,2015,10246.0,Martinsburg
+4,2016,11022.0,Martinsburg
+5,2017,11136.0,Martinsburg
+6,2018,10687.0,Martinsburg
+0,2012,41350.0,Mattoon
+1,2013,43861.0,Mattoon
+2,2014,42327.0,Mattoon
+3,2015,41507.0,Mattoon
+4,2016,37031.0,Mattoon
+5,2017,35312.0,Mattoon
+6,2018,33908.0,Mattoon
+0,2012,2507.0,Maysville
+1,2013,2411.0,Maysville
+2,2014,2316.0,Maysville
+3,2015,2279.0,Maysville
+4,2016,2309.0,Maysville
+5,2017,2214.0,Maysville
+6,2018,2024.0,Maysville
+0,2012,6685.0,McComb
+1,2013,6496.0,McComb
+2,2014,6464.0,McComb
+3,2015,6377.0,McComb
+4,2016,5665.0,McComb
+5,2017,5033.0,McComb
+6,2018,4795.0,McComb
+0,2012,3540.0,McCook
+1,2013,3638.0,McCook
+2,2014,3414.0,McCook
+3,2015,3342.0,McCook
+4,2016,3049.0,McCook
+5,2017,2914.0,McCook
+6,2018,3282.0,McCook
+0,2012,4988.0,McGregor
+1,2013,5209.0,McGregor
+2,2014,4328.0,McGregor
+3,2015,4834.0,McGregor
+4,2016,5194.0,McGregor
+5,2017,5123.0,McGregor
+6,2018,5061.0,McGregor
+0,2012,71649.0,Memphis
+1,2013,74483.0,Memphis
+2,2014,68662.0,Memphis
+3,2015,71068.0,Memphis
+4,2016,70977.0,Memphis
+5,2017,72334.0,Memphis
+6,2018,70182.0,Memphis
+0,2012,24061.0,Mendota
+1,2013,25183.0,Mendota
+2,2014,23852.0,Mendota
+3,2015,23944.0,Mendota
+4,2016,23517.0,Mendota
+5,2017,22833.0,Mendota
+6,2018,22066.0,Mendota
+0,2012,124.2,Merced
+1,2013,132.8,Merced
+2,2014,128.2,Merced
+3,2015,127.5,Merced
+4,2016,120.1,Merced
+5,2017,125.1,Merced
+6,2018,126.0,Merced
+0,2012,33878.0,Meriden
+1,2013,34905.0,Meriden
+2,2014,30037.0,Meriden
+3,2015,27308.0,Meriden
+4,2016,17493.0,Meriden
+5,2017,12475.0,Meriden
+6,2018,16167.0,Meriden
+0,2012,12120.0,Meridian
+1,2013,11500.0,Meridian
+2,2014,11275.0,Meridian
+3,2015,10863.0,Meridian
+4,2016,10179.0,Meridian
+5,2017,9417.0,Meridian
+6,2018,9090.0,Meridian
+0,2012,87453.0,Miami
+1,2013,80759.0,Miami
+2,2014,76097.0,Miami
+3,2015,69547.0,Miami
+4,2016,64509.0,Miami
+5,2017,64485.0,Miami
+6,2018,63500.0,Miami
+0,2012,3293.0,Michigan City
+1,2013,3883.0,Michigan City
+2,2014,3988.0,Michigan City
+3,2015,3766.0,Michigan City
+4,2016,3573.0,Michigan City
+5,2017,3699.0,Michigan City
+6,2018,3284.0,Michigan City
+0,2012,73091.0,Middletown
+1,2013,80663.0,Middletown
+2,2014,66917.0,Middletown
+3,2015,67957.0,Middletown
+4,2016,67491.0,Middletown
+5,2017,68132.0,Middletown
+6,2018,68047.0,Middletown
+0,2012,620.5,Milwaukee
+1,2013,604.2,Milwaukee
+2,2014,586.2,Milwaukee
+3,2015,586.9,Milwaukee
+4,2016,587.5,Milwaukee
+5,2017,594.6,Milwaukee
+6,2018,596.2,Milwaukee
+0,2012,163.8,Milwaukee - Airport
+1,2013,160.3,Milwaukee - Airport
+2,2014,159.9,Milwaukee - Airport
+3,2015,157.0,Milwaukee - Airport
+4,2016,159.6,Milwaukee - Airport
+5,2017,164.1,Milwaukee - Airport
+6,2018,180.3,Milwaukee - Airport
+0,2012,6956.0,Mineola
+1,2013,7213.0,Mineola
+2,2014,6776.0,Mineola
+3,2015,6423.0,Mineola
+4,2016,6110.0,Mineola
+5,2017,7151.0,Mineola
+6,2018,6423.0,Mineola
+0,2012,N/A,Minneapolis / St. Paul
+1,2013,N/A,Minneapolis / St. Paul
+2,2014,N/A,Minneapolis / St. Paul
+3,2015,N/A,Minneapolis / St. Paul
+4,2016,N/A,Minneapolis / St. Paul
+5,2017,N/A,Minneapolis / St. Paul
+6,2018,N/A,Minneapolis / St. Paul
+0,2012,6956.0,Minneapolis / St. Paul
+1,2013,7213.0,Minneapolis / St. Paul
+2,2014,6776.0,Minneapolis / St. Paul
+3,2015,6423.0,Minneapolis / St. Paul
+4,2016,6110.0,Minneapolis / St. Paul
+5,2017,7151.0,Minneapolis / St. Paul
+6,2018,6423.0,Minneapolis / St. Paul
+0,2012,36285.0,Minot
+1,2013,40595.0,Minot
+2,2014,34834.0,Minot
+3,2015,31827.0,Minot
+4,2016,29424.0,Minot
+5,2017,29978.0,Minot
+6,2018,29531.0,Minot
+0,2012,N/A,Mobile
+1,2013,N/A,Mobile
+2,2014,N/A,Mobile
+3,2015,N/A,Mobile
+4,2016,N/A,Mobile
+5,2017,N/A,Mobile
+6,2018,N/A,Mobile
+0,2012,116.9,Modesto
+1,2013,126.3,Modesto
+2,2014,121.8,Modesto
+3,2015,120.5,Modesto
+4,2016,116.4,Modesto
+5,2017,114.5,Modesto
+6,2018,111.4,Modesto
+0,2012,580.0,Montgomery
+1,2013,614.0,Montgomery
+2,2014,641.0,Montgomery
+3,2015,639.0,Montgomery
+4,2016,669.0,Montgomery
+5,2017,500.0,Montgomery
+6,2018,347.0,Montgomery
+0,2012,7208.0,Montpelier-Barre
+1,2013,7975.0,Montpelier-Barre
+2,2014,8504.0,Montpelier-Barre
+3,2015,8723.0,Montpelier-Barre
+4,2016,7667.0,Montpelier-Barre
+5,2017,8046.0,Montpelier-Barre
+6,2018,7874.0,Montpelier-Barre
+0,2012,14431.0,Moorpark
+1,2013,15212.0,Moorpark
+2,2014,16303.0,Moorpark
+3,2015,16496.0,Moorpark
+4,2016,17202.0,Moorpark
+5,2017,18068.0,Moorpark
+6,2018,18299.0,Moorpark
+0,2012,69025.0,Mount Joy
+1,2013,69848.0,Mount Joy
+2,2014,46288.0,Mount Joy
+3,2015,50648.0,Mount Joy
+4,2016,50640.0,Mount Joy
+5,2017,45803.0,Mount Joy
+6,2018,45592.0,Mount Joy
+0,2012,13321.0,Mount Pleasant
+1,2013,12244.0,Mount Pleasant
+2,2014,11741.0,Mount Pleasant
+3,2015,11631.0,Mount Pleasant
+4,2016,13504.0,Mount Pleasant
+5,2017,13736.0,Mount Pleasant
+6,2018,12586.0,Mount Pleasant
+0,2012,18561.0,Mount Vernon
+1,2013,16719.0,Mount Vernon
+2,2014,18225.0,Mount Vernon
+3,2015,18193.0,Mount Vernon
+4,2016,18319.0,Mount Vernon
+5,2017,17776.0,Mount Vernon
+6,2018,16815.0,Mount Vernon
+0,2012,25983.0,Mystic
+1,2013,23490.0,Mystic
+2,2014,23083.0,Mystic
+3,2015,23814.0,Mystic
+4,2016,25704.0,Mystic
+5,2017,25687.0,Mystic
+6,2018,28017.0,Mystic
+0,2012,53557.0,Naperville
+1,2013,52348.0,Naperville
+2,2014,49346.0,Naperville
+3,2015,46467.0,Naperville
+4,2016,46439.0,Naperville
+5,2017,45416.0,Naperville
+6,2018,41753.0,Naperville
+0,2012,3010.0,NC State Fair - Raleigh
+1,2013,2672.0,NC State Fair - Raleigh
+2,2014,3633.0,NC State Fair - Raleigh
+3,2015,3196.0,NC State Fair - Raleigh
+4,2016,,NC State Fair - Raleigh
+5,2017,659.0,NC State Fair - Raleigh
+6,2018,,NC State Fair - Raleigh
+0,2012,9118.0,Needles
+1,2013,8640.0,Needles
+2,2014,8386.0,Needles
+3,2015,8656.0,Needles
+4,2016,8017.0,Needles
+5,2017,9176.0,Needles
+6,2018,9125.0,Needles
+0,2012,8470.0,New Brunswick
+1,2013,9052.0,New Brunswick
+2,2014,8898.0,New Brunswick
+3,2015,8365.0,New Brunswick
+4,2016,7857.0,New Brunswick
+5,2017,7392.0,New Brunswick
+6,2018,6902.0,New Brunswick
+0,2012,14817.0,New Buffalo
+1,2013,19902.0,New Buffalo
+2,2014,21751.0,New Buffalo
+3,2015,21756.0,New Buffalo
+4,2016,20636.0,New Buffalo
+5,2017,24778.0,New Buffalo
+6,2018,25849.0,New Buffalo
+0,2012,170.9,New Carrollton
+1,2013,165.0,New Carrollton
+2,2014,165.9,New Carrollton
+3,2015,163.5,New Carrollton
+4,2016,171.3,New Carrollton
+5,2017,173.9,New Carrollton
+6,2018,173.8,New Carrollton
+0,2012,740.7,New Haven
+1,2013,731.0,New Haven
+2,2014,702.3,New Haven
+3,2015,691.2,New Haven
+4,2016,634.4,New Haven
+5,2017,618.6,New Haven
+6,2018,688.9,New Haven
+0,2012,1670.0,New Iberia
+1,2013,1920.0,New Iberia
+2,2014,1769.0,New Iberia
+3,2015,1729.0,New Iberia
+4,2016,1850.0,New Iberia
+5,2017,1602.0,New Iberia
+6,2018,1602.0,New Iberia
+0,2012,171.7,New London
+1,2013,160.1,New London
+2,2014,153.5,New London
+3,2015,153.5,New London
+4,2016,157.4,New London
+5,2017,160.8,New London
+6,2018,160.2,New London
+0,2012,218.0,New Orleans
+1,2013,206.8,New Orleans
+2,2014,196.8,New Orleans
+3,2015,186.6,New Orleans
+4,2016,179.5,New Orleans
+5,2017,180.4,New Orleans
+6,2018,180.4,New Orleans
+0,2012,84777.0,New Rochelle
+1,2013,81757.0,New Rochelle
+2,2014,83707.0,New Rochelle
+3,2015,85875.0,New Rochelle
+4,2016,87510.0,New Rochelle
+5,2017,91058.0,New Rochelle
+6,2018,91468.0,New Rochelle
+0,2012,9277.4,New York - Penn Station
+1,2013,9345.5,New York - Penn Station
+2,2014,9849.7,New York - Penn Station
+3,2015,54.0,New York - Penn Station
+4,2016,263.0,New York - Penn Station
+5,2017,207.0,New York - Penn Station
+6,2018,9860.4,New York - Penn Station
+0,2012,672.8,Newark
+1,2013,648.6,Newark
+2,2014,670.2,Newark
+3,2015,637.0,Newark
+4,2016,655.9,Newark
+5,2017,674.0,Newark
+6,2018,697.5,Newark
+0,2012,672.8,Newark
+1,2013,648.6,Newark
+2,2014,670.2,Newark
+3,2015,637.0,Newark
+4,2016,655.9,Newark
+5,2017,674.0,Newark
+6,2018,697.5,Newark
+0,2012,125.1,Newark - International Airport
+1,2013,128.0,Newark - International Airport
+2,2014,110.7,Newark - International Airport
+3,2015,138.1,Newark - International Airport
+4,2016,138.0,Newark - International Airport
+5,2017,149.2,Newark - International Airport
+6,2018,167.9,Newark - International Airport
+0,2012,4039.0,Newbern
+1,2013,4192.0,Newbern
+2,2014,3927.0,Newbern
+3,2015,3900.0,Newbern
+4,2016,3690.0,Newbern
+5,2017,3788.0,Newbern
+6,2018,3576.0,Newbern
+0,2012,128.9,Newport News
+1,2013,124.8,Newport News
+2,2014,110.9,Newport News
+3,2015,113.8,Newport News
+4,2016,106.0,Newport News
+5,2017,104.5,Newport News
+6,2018,98.3,Newport News
+0,2012,14131.0,Newton
+1,2013,14564.0,Newton
+2,2014,12871.0,Newton
+3,2015,13010.0,Newton
+4,2016,13741.0,Newton
+5,2017,15828.0,Newton
+6,2018,15218.0,Newton
+0,2012,32164.0,Niagara Falls
+1,2013,32152.0,Niagara Falls
+2,2014,32341.0,Niagara Falls
+3,2015,31354.0,Niagara Falls
+4,2016,29191.0,Niagara Falls
+5,2017,30882.0,Niagara Falls
+6,2018,32699.0,Niagara Falls
+0,2012,19846.0,Niles
+1,2013,21222.0,Niles
+2,2014,20344.0,Niles
+3,2015,19021.0,Niles
+4,2016,16506.0,Niles
+5,2017,17475.0,Niles
+6,2018,17405.0,Niles
+0,2012,Partial Data,Norfolk
+1,2013,Partial Data,Norfolk
+2,2014,Partial Data,Norfolk
+3,2015,Partial Data,Norfolk
+4,2016,Partial Data,Norfolk
+5,2017,Partial Data,Norfolk
+6,2018,Partial Data,Norfolk
+0,2012,15207.0,Norman
+1,2013,13902.0,Norman
+2,2014,13978.0,Norman
+3,2015,11781.0,Norman
+4,2016,11748.0,Norman
+5,2017,13039.0,Norman
+6,2018,12469.0,Norman
+0,2012,4828.0,North Palm Springs
+1,2013,2970.0,North Palm Springs
+2,2014,2954.0,North Palm Springs
+3,2015,3124.0,North Palm Springs
+4,2016,3042.0,North Palm Springs
+5,2017,3142.0,North Palm Springs
+6,2018,2925.0,North Palm Springs
+0,2012,Partial Data,North Philadelphia
+1,2013,Partial Data,North Philadelphia
+2,2014,Partial Data,North Philadelphia
+3,2015,Partial Data,North Philadelphia
+4,2016,Partial Data,North Philadelphia
+5,2017,Partial Data,North Philadelphia
+6,2018,Partial Data,North Philadelphia
+0,2012,Partial Data,Northampton
+1,2013,Partial Data,Northampton
+2,2014,Partial Data,Northampton
+3,2015,Partial Data,Northampton
+4,2016,Partial Data,Northampton
+5,2017,Partial Data,Northampton
+6,2018,Partial Data,Northampton
+0,2012,Partial Data,NY State Fair - Syracuse
+1,2013,Partial Data,NY State Fair - Syracuse
+2,2014,Partial Data,NY State Fair - Syracuse
+3,2015,Partial Data,NY State Fair - Syracuse
+4,2016,Partial Data,NY State Fair - Syracuse
+5,2017,Partial Data,NY State Fair - Syracuse
+6,2018,Partial Data,NY State Fair - Syracuse
+0,2012,26288.0,Oakland - Coliseum Airport
+1,2013,30135.0,Oakland - Coliseum Airport
+2,2014,52251.0,Oakland - Coliseum Airport
+3,2015,56943.0,Oakland - Coliseum Airport
+4,2016,70235.0,Oakland - Coliseum Airport
+5,2017,77072.0,Oakland - Coliseum Airport
+6,2018,88728.0,Oakland - Coliseum Airport
+0,2012,414.6,Oakland - Jack London Sq
+1,2013,403.2,Oakland - Jack London Sq
+2,2014,301.3,Oakland - Jack London Sq
+3,2015,317.0,Oakland - Jack London Sq
+4,2016,341.8,Oakland - Jack London Sq
+5,2017,363.2,Oakland - Jack London Sq
+6,2018,386.4,Oakland - Jack London Sq
+0,2012,263.6,Oceanside
+1,2013,270.1,Oceanside
+2,2014,241.2,Oceanside
+3,2015,258.2,Oceanside
+4,2016,313.5,Oceanside
+5,2017,292.7,Oceanside
+6,2018,284.3,Oceanside
+0,2012,3933.0,Okeechobee
+1,2013,3851.0,Okeechobee
+2,2014,4091.0,Okeechobee
+3,2015,4223.0,Okeechobee
+4,2016,4193.0,Okeechobee
+5,2017,3935.0,Okeechobee
+6,2018,3988.0,Okeechobee
+0,2012,57785.0,Oklahoma City
+1,2013,53304.0,Oklahoma City
+2,2014,50860.0,Oklahoma City
+3,2015,44872.0,Oklahoma City
+4,2016,43577.0,Oklahoma City
+5,2017,46529.0,Oklahoma City
+6,2018,44386.0,Oklahoma City
+0,2012,17432.0,Old Orchard Beach
+1,2013,17766.0,Old Orchard Beach
+2,2014,16817.0,Old Orchard Beach
+3,2015,9948.0,Old Orchard Beach
+4,2016,15684.0,Old Orchard Beach
+5,2017,15764.0,Old Orchard Beach
+6,2018,15802.0,Old Orchard Beach
+0,2012,65315.0,Old Saybrook
+1,2013,60310.0,Old Saybrook
+2,2014,60413.0,Old Saybrook
+3,2015,60833.0,Old Saybrook
+4,2016,62269.0,Old Saybrook
+5,2017,64328.0,Old Saybrook
+6,2018,67503.0,Old Saybrook
+0,2012,Partial Data,Old Town
+1,2013,Partial Data,Old Town
+2,2014,Partial Data,Old Town
+3,2015,Partial Data,Old Town
+4,2016,Partial Data,Old Town
+5,2017,Partial Data,Old Town
+6,2018,Partial Data,Old Town
+0,2012,22457.0,Omaha
+1,2013,24013.0,Omaha
+2,2014,24025.0,Omaha
+3,2015,26489.0,Omaha
+4,2016,29477.0,Omaha
+5,2017,28846.0,Omaha
+6,2018,26895.0,Omaha
+0,2012,5185.0,Ontario
+1,2013,5090.0,Ontario
+2,2014,4675.0,Ontario
+3,2015,4824.0,Ontario
+4,2016,4864.0,Ontario
+5,2017,4901.0,Ontario
+6,2018,4441.0,Ontario
+0,2012,Partial Data,Orange
+1,2013,Partial Data,Orange
+2,2014,Partial Data,Orange
+3,2015,Partial Data,Orange
+4,2016,Partial Data,Orange
+5,2017,Partial Data,Orange
+6,2018,Partial Data,Orange
+0,2012,10605.0,Oregon City
+1,2013,9937.0,Oregon City
+2,2014,13955.0,Oregon City
+3,2015,13080.0,Oregon City
+4,2016,14858.0,Oregon City
+5,2017,13678.0,Oregon City
+6,2018,11382.0,Oregon City
+0,2012,Partial Data,Oregon State Fair [Salem]
+1,2013,Partial Data,Oregon State Fair [Salem]
+2,2014,Partial Data,Oregon State Fair [Salem]
+3,2015,Partial Data,Oregon State Fair [Salem]
+4,2016,Partial Data,Oregon State Fair [Salem]
+5,2017,Partial Data,Oregon State Fair [Salem]
+6,2018,Partial Data,Oregon State Fair [Salem]
+0,2012,166.9,Orlando
+1,2013,154.3,Orlando
+2,2014,151.0,Orlando
+3,2015,142.8,Orlando
+4,2016,134.2,Orlando
+5,2017,128.8,Orlando
+6,2018,124.0,Orlando
+0,2012,14320.0,Osceola
+1,2013,14378.0,Osceola
+2,2014,13636.0,Osceola
+3,2015,13760.0,Osceola
+4,2016,15960.0,Osceola
+5,2017,15601.0,Osceola
+6,2018,16064.0,Osceola
+0,2012,11674.0,Ottumwa
+1,2013,11735.0,Ottumwa
+2,2014,11109.0,Ottumwa
+3,2015,10983.0,Ottumwa
+4,2016,12087.0,Ottumwa
+5,2017,12209.0,Ottumwa
+6,2018,11043.0,Ottumwa
+0,2012,81.2,Oxnard
+1,2013,79.1,Oxnard
+2,2014,82.3,Oxnard
+3,2015,85.4,Oxnard
+4,2016,84.3,Oxnard
+5,2017,85.6,Oxnard
+6,2018,104.4,Oxnard
+0,2012,12804.0,Palatka
+1,2013,12749.0,Palatka
+2,2014,12145.0,Palatka
+3,2015,12568.0,Palatka
+4,2016,12333.0,Palatka
+5,2017,12579.0,Palatka
+6,2018,11598.0,Palatka
+0,2012,165.4,Paoli
+1,2013,173.5,Paoli
+2,2014,168.5,Paoli
+3,2015,174.8,Paoli
+4,2016,199.2,Paoli
+5,2017,216.0,Paoli
+6,2018,232.2,Paoli
+0,2012,51296.0,Parkesburg
+1,2013,55290.0,Parkesburg
+2,2014,49079.0,Parkesburg
+3,2015,48505.0,Parkesburg
+4,2016,46950.0,Parkesburg
+5,2017,44568.0,Parkesburg
+6,2018,44513.0,Parkesburg
+0,2012,N/A,Pascagoula
+1,2013,N/A,Pascagoula
+2,2014,N/A,Pascagoula
+3,2015,N/A,Pascagoula
+4,2016,N/A,Pascagoula
+5,2017,N/A,Pascagoula
+6,2018,N/A,Pascagoula
+0,2012,24743.0,Pasco
+1,2013,24506.0,Pasco
+2,2014,21776.0,Pasco
+3,2015,22111.0,Pasco
+4,2016,22640.0,Pasco
+5,2017,23637.0,Pasco
+6,2018,22711.0,Pasco
+0,2012,11728.0,Paso Robles
+1,2013,12338.0,Paso Robles
+2,2014,12065.0,Paso Robles
+3,2015,12149.0,Paso Robles
+4,2016,12037.0,Paso Robles
+5,2017,11377.0,Paso Robles
+6,2018,10747.0,Paso Robles
+0,2012,5706.0,Pauls Valley
+1,2013,5360.0,Pauls Valley
+2,2014,5816.0,Pauls Valley
+3,2015,4535.0,Pauls Valley
+4,2016,4321.0,Pauls Valley
+5,2017,4740.0,Pauls Valley
+6,2018,4065.0,Pauls Valley
+0,2012,N/A,Pensacola
+1,2013,N/A,Pensacola
+2,2014,N/A,Pensacola
+3,2015,N/A,Pensacola
+4,2016,N/A,Pensacola
+5,2017,N/A,Pensacola
+6,2018,N/A,Pensacola
+0,2012,22387.0,Petersburg
+1,2013,27909.0,Petersburg
+2,2014,29286.0,Petersburg
+3,2015,29780.0,Petersburg
+4,2016,29986.0,Petersburg
+5,2017,30727.0,Petersburg
+6,2018,31497.0,Petersburg
+0,2012,3982.6,Philadelphia - 30th Street Station
+1,2013,4043.2,Philadelphia - 30th Street Station
+2,2014,4009.5,Philadelphia - 30th Street Station
+3,2015,4085.3,Philadelphia - 30th Street Station
+4,2016,4264.5,Philadelphia - 30th Street Station
+5,2017,4340.1,Philadelphia - 30th Street Station
+6,2018,4417.0,Philadelphia - 30th Street Station
+0,2012,2971.0,Picayune
+1,2013,2922.0,Picayune
+2,2014,2517.0,Picayune
+3,2015,2223.0,Picayune
+4,2016,2458.0,Picayune
+5,2017,2363.0,Picayune
+6,2018,2119.0,Picayune
+0,2012,125.2,Pittsburgh
+1,2013,131.4,Pittsburgh
+2,2014,146.2,Pittsburgh
+3,2015,147.5,Pittsburgh
+4,2016,143.5,Pittsburgh
+5,2017,142.8,Pittsburgh
+6,2018,136.8,Pittsburgh
+0,2012,7204.0,Pittsfield
+1,2013,7656.0,Pittsfield
+2,2014,7541.0,Pittsfield
+3,2015,7468.0,Pittsfield
+4,2016,7827.0,Pittsfield
+5,2017,8464.0,Pittsfield
+6,2018,8270.0,Pittsfield
+0,2012,6344.0,Plano
+1,2013,6901.0,Plano
+2,2014,7193.0,Plano
+3,2015,6771.0,Plano
+4,2016,6412.0,Plano
+5,2017,6187.0,Plano
+6,2018,6442.0,Plano
+0,2012,12206.0,Plattsburgh
+1,2013,13126.0,Plattsburgh
+2,2014,13239.0,Plattsburgh
+3,2015,14622.0,Plattsburgh
+4,2016,13325.0,Plattsburgh
+5,2017,13539.0,Plattsburgh
+6,2018,13003.0,Plattsburgh
+0,2012,1614.0,Pomona
+1,2013,1461.0,Pomona
+2,2014,1615.0,Pomona
+3,2015,1812.0,Pomona
+4,2016,1716.0,Pomona
+5,2017,1601.0,Pomona
+6,2018,1540.0,Pomona
+0,2012,16062.0,Pontiac
+1,2013,16517.0,Pontiac
+2,2014,15897.0,Pontiac
+3,2015,15714.0,Pontiac
+4,2016,12870.0,Pontiac
+5,2017,13107.0,Pontiac
+6,2018,13964.0,Pontiac
+0,2012,16062.0,Pontiac
+1,2013,16517.0,Pontiac
+2,2014,15897.0,Pontiac
+3,2015,15714.0,Pontiac
+4,2016,12870.0,Pontiac
+5,2017,13107.0,Pontiac
+6,2018,13964.0,Pontiac
+0,2012,5938.0,Poplar Bluff
+1,2013,5829.0,Poplar Bluff
+2,2014,6017.0,Poplar Bluff
+3,2015,5447.0,Poplar Bluff
+4,2016,4764.0,Poplar Bluff
+5,2017,4900.0,Poplar Bluff
+6,2018,4640.0,Poplar Bluff
+0,2012,2264.0,Port Henry
+1,2013,2302.0,Port Henry
+2,2014,2163.0,Port Henry
+3,2015,2472.0,Port Henry
+4,2016,2395.0,Port Henry
+5,2017,2488.0,Port Henry
+6,2018,2603.0,Port Henry
+0,2012,26419.0,Port Huron
+1,2013,29141.0,Port Huron
+2,2014,29027.0,Port Huron
+3,2015,23524.0,Port Huron
+4,2016,20033.0,Port Huron
+5,2017,20452.0,Port Huron
+6,2018,19593.0,Port Huron
+0,2012,Partial Data,Port Kent
+1,2013,Partial Data,Port Kent
+2,2014,Partial Data,Port Kent
+3,2015,Partial Data,Port Kent
+4,2016,Partial Data,Port Kent
+5,2017,Partial Data,Port Kent
+6,2018,Partial Data,Port Kent
+0,2012,6747.0,Portage
+1,2013,7455.0,Portage
+2,2014,5847.0,Portage
+3,2015,6116.0,Portage
+4,2016,7786.0,Portage
+5,2017,9077.0,Portage
+6,2018,7266.0,Portage
+0,2012,207.7,Portland
+1,2013,182.4,Portland
+2,2014,171.4,Portland
+3,2015,129.3,Portland
+4,2016,162.7,Portland
+5,2017,156.3,Portland
+6,2018,166.1,Portland
+0,2012,641.1,Portland - Union Station
+1,2013,632.4,Portland - Union Station
+2,2014,569.8,Portland - Union Station
+3,2015,553.3,Portland - Union Station
+4,2016,578.1,Portland - Union Station
+5,2017,583.6,Portland - Union Station
+6,2018,565.9,Portland - Union Station
+0,2012,86.9,Poughkeepsie
+1,2013,93.7,Poughkeepsie
+2,2014,97.3,Poughkeepsie
+3,2015,99.9,Poughkeepsie
+4,2016,100.3,Poughkeepsie
+5,2017,100.8,Poughkeepsie
+6,2018,93.9,Poughkeepsie
+0,2012,3125.0,Prince
+1,2013,3406.0,Prince
+2,2014,3136.0,Prince
+3,2015,2925.0,Prince
+4,2016,2943.0,Prince
+5,2017,2988.0,Prince
+6,2018,2162.0,Prince
+0,2012,34289.0,Princeton
+1,2013,35611.0,Princeton
+2,2014,35412.0,Princeton
+3,2015,35363.0,Princeton
+4,2016,36420.0,Princeton
+5,2017,36230.0,Princeton
+6,2018,37708.0,Princeton
+0,2012,40947.0,Princeton Junction
+1,2013,45685.0,Princeton Junction
+2,2014,44004.0,Princeton Junction
+3,2015,41493.0,Princeton Junction
+4,2016,42226.0,Princeton Junction
+5,2017,40550.0,Princeton Junction
+6,2018,37050.0,Princeton Junction
+0,2012,660.8,Providence
+1,2013,651.4,Providence
+2,2014,658.3,Providence
+3,2015,684.7,Providence
+4,2016,709.3,Providence
+5,2017,735.8,Providence
+6,2018,758.4,Providence
+0,2012,5675.0,Provo
+1,2013,6262.0,Provo
+2,2014,5299.0,Provo
+3,2015,4403.0,Provo
+4,2016,5537.0,Provo
+5,2017,5095.0,Provo
+6,2018,5120.0,Provo
+0,2012,2137.0,Purcell
+1,2013,2431.0,Purcell
+2,2014,1759.0,Purcell
+3,2015,1960.0,Purcell
+4,2016,1693.0,Purcell
+5,2017,1860.0,Purcell
+6,2018,1635.0,Purcell
+0,2012,18294.0,Quantico
+1,2013,18607.0,Quantico
+2,2014,18224.0,Quantico
+3,2015,18446.0,Quantico
+4,2016,18383.0,Quantico
+5,2017,18185.0,Quantico
+6,2018,18948.0,Quantico
+0,2012,52790.0,Quincy
+1,2013,49372.0,Quincy
+2,2014,46460.0,Quincy
+3,2015,45490.0,Quincy
+4,2016,41171.0,Quincy
+5,2017,40869.0,Quincy
+6,2018,36851.0,Quincy
+0,2012,158.4,Raleigh
+1,2013,154.0,Raleigh
+2,2014,157.1,Raleigh
+3,2015,157.3,Raleigh
+4,2016,152.2,Raleigh
+5,2017,146.8,Raleigh
+6,2018,153.8,Raleigh
+0,2012,2004.0,Randolph
+1,2013,2009.0,Randolph
+2,2014,2302.0,Randolph
+3,2015,2072.0,Randolph
+4,2016,1940.0,Randolph
+5,2017,1833.0,Randolph
+6,2018,1842.0,Randolph
+0,2012,4909.0,Rantoul
+1,2013,5823.0,Rantoul
+2,2014,5908.0,Rantoul
+3,2015,6371.0,Rantoul
+4,2016,5660.0,Rantoul
+5,2017,4773.0,Rantoul
+6,2018,4999.0,Rantoul
+0,2012,16292.0,Raton
+1,2013,15733.0,Raton
+2,2014,15875.0,Raton
+3,2015,17621.0,Raton
+4,2016,16454.0,Raton
+5,2017,15122.0,Raton
+6,2018,7392.0,Raton
+0,2012,10289.0,Red Wing
+1,2013,9525.0,Red Wing
+2,2014,7586.0,Red Wing
+3,2015,8004.0,Red Wing
+4,2016,8390.0,Red Wing
+5,2017,8557.0,Red Wing
+6,2018,8265.0,Red Wing
+0,2012,12059.0,Redding
+1,2013,13269.0,Redding
+2,2014,13263.0,Redding
+3,2015,12345.0,Redding
+4,2016,11208.0,Redding
+5,2017,10475.0,Redding
+6,2018,9822.0,Redding
+0,2012,66986.0,Reno
+1,2013,76878.0,Reno
+2,2014,63029.0,Reno
+3,2015,56318.0,Reno
+4,2016,69297.0,Reno
+5,2017,69904.0,Reno
+6,2018,70518.0,Reno
+0,2012,2342.0,Rensselaer
+1,2013,2239.0,Rensselaer
+2,2014,2154.0,Rensselaer
+3,2015,2090.0,Rensselaer
+4,2016,1963.0,Rensselaer
+5,2017,2188.0,Rensselaer
+6,2018,1816.0,Rensselaer
+0,2012,175.1,Rhinecliff
+1,2013,182.3,Rhinecliff
+2,2014,184.3,Rhinecliff
+3,2015,192.6,Rhinecliff
+4,2016,199.9,Rhinecliff
+5,2017,198.5,Rhinecliff
+6,2018,198.1,Rhinecliff
+0,2012,278.8,Richmond
+1,2013,262.8,Richmond
+2,2014,238.7,Richmond
+3,2015,248.4,Richmond
+4,2016,267.7,Richmond
+5,2017,290.0,Richmond
+6,2018,286.9,Richmond
+0,2012,34330.0,Richmond - Main Street Station
+1,2013,38127.0,Richmond - Main Street Station
+2,2014,40636.0,Richmond - Main Street Station
+3,2015,44732.0,Richmond - Main Street Station
+4,2016,42283.0,Richmond - Main Street Station
+5,2017,45825.0,Richmond - Main Street Station
+6,2018,48033.0,Richmond - Main Street Station
+0,2012,337.5,Richmond - Staples Mill Rd
+1,2013,365.0,Richmond - Staples Mill Rd
+2,2014,352.3,Richmond - Staples Mill Rd
+3,2015,356.0,Richmond - Staples Mill Rd
+4,2016,349.5,Richmond - Staples Mill Rd
+5,2017,367.1,Richmond - Staples Mill Rd
+6,2018,341.7,Richmond - Staples Mill Rd
+0,2012,12197.0,Riverside
+1,2013,12431.0,Riverside
+2,2014,12105.0,Riverside
+3,2015,12837.0,Riverside
+4,2016,12287.0,Riverside
+5,2017,12644.0,Riverside
+6,2018,11474.0,Riverside
+0,2012,Partial Data,Roanoke - Civic Center Bus Stop
+1,2013,Partial Data,Roanoke - Civic Center Bus Stop
+2,2014,Partial Data,Roanoke - Civic Center Bus Stop
+3,2015,Partial Data,Roanoke - Civic Center Bus Stop
+4,2016,Partial Data,Roanoke - Civic Center Bus Stop
+5,2017,Partial Data,Roanoke - Civic Center Bus Stop
+6,2018,Partial Data,Roanoke - Civic Center Bus Stop
+0,2012,141.2,Rochester
+1,2013,138.1,Rochester
+2,2014,137.0,Rochester
+3,2015,135.4,Rochester
+4,2016,123.1,Rochester
+5,2017,125.0,Rochester
+6,2018,126.7,Rochester
+0,2012,32991.0,Rocklin
+1,2013,28953.0,Rocklin
+2,2014,15414.0,Rocklin
+3,2015,15074.0,Rocklin
+4,2016,16403.0,Rocklin
+5,2017,15926.0,Rocklin
+6,2018,16956.0,Rocklin
+0,2012,4213.0,Rockville
+1,2013,5024.0,Rockville
+2,2014,5338.0,Rockville
+3,2015,4883.0,Rockville
+4,2016,5561.0,Rockville
+5,2017,5605.0,Rockville
+6,2018,5162.0,Rockville
+0,2012,53696.0,Rocky Mount
+1,2013,52532.0,Rocky Mount
+2,2014,52772.0,Rocky Mount
+3,2015,54325.0,Rocky Mount
+4,2016,53914.0,Rocky Mount
+5,2017,52343.0,Rocky Mount
+6,2018,51365.0,Rocky Mount
+0,2012,9315.0,Rome
+1,2013,9788.0,Rome
+2,2014,9743.0,Rome
+3,2015,9966.0,Rome
+4,2016,9205.0,Rome
+5,2017,8580.0,Rome
+6,2018,6516.0,Rome
+0,2012,62232.0,Roseville
+1,2013,50338.0,Roseville
+2,2014,32539.0,Roseville
+3,2015,34528.0,Roseville
+4,2016,39349.0,Roseville
+5,2017,38484.0,Roseville
+6,2018,38775.0,Roseville
+0,2012,1353.0,Rouses Point
+1,2013,1205.0,Rouses Point
+2,2014,1257.0,Rouses Point
+3,2015,1208.0,Rouses Point
+4,2016,1276.0,Rouses Point
+5,2017,1253.0,Rouses Point
+6,2018,1302.0,Rouses Point
+0,2012,32300.0,Royal Oak
+1,2013,36548.0,Royal Oak
+2,2014,34364.0,Royal Oak
+3,2015,33324.0,Royal Oak
+4,2016,26114.0,Royal Oak
+5,2017,28320.0,Royal Oak
+6,2018,27318.0,Royal Oak
+0,2012,7057.0,Rugby
+1,2013,5637.0,Rugby
+2,2014,4053.0,Rugby
+3,2015,4254.0,Rugby
+4,2016,4161.0,Rugby
+5,2017,4027.0,Rugby
+6,2018,4102.0,Rugby
+0,2012,16166.0,Rutland
+1,2013,16342.0,Rutland
+2,2014,16486.0,Rutland
+3,2015,16325.0,Rutland
+4,2016,14099.0,Rutland
+5,2017,13719.0,Rutland
+6,2018,12959.0,Rutland
+0,2012,50105.0,Saco
+1,2013,50041.0,Saco
+2,2014,47813.0,Saco
+3,2015,37561.0,Saco
+4,2016,43292.0,Saco
+5,2017,42078.0,Saco
+6,2018,48158.0,Saco
+0,2012,1170.3,Sacramento
+1,2013,1113.8,Sacramento
+2,2014,1005.8,Sacramento
+3,2015,1011.4,Sacramento
+4,2016,1038.2,Sacramento
+5,2017,1059.8,Sacramento
+6,2018,1072.1,Sacramento
+0,2012,65737.0,Salem
+1,2013,71393.0,Salem
+2,2014,60218.0,Salem
+3,2015,57558.0,Salem
+4,2016,61033.0,Salem
+5,2017,62852.0,Salem
+6,2018,55090.0,Salem
+0,2012,19879.0,Salinas - Downtown
+1,2013,21977.0,Salinas - Downtown
+2,2014,22233.0,Salinas - Downtown
+3,2015,21716.0,Salinas - Downtown
+4,2016,21336.0,Salinas - Downtown
+5,2017,20410.0,Salinas - Downtown
+6,2018,19099.0,Salinas - Downtown
+0,2012,27606.0,Salisbury
+1,2013,31539.0,Salisbury
+2,2014,27238.0,Salisbury
+3,2015,25311.0,Salisbury
+4,2016,21681.0,Salisbury
+5,2017,22148.0,Salisbury
+6,2018,20693.0,Salisbury
+0,2012,42211.0,Salt Lake City
+1,2013,43562.0,Salt Lake City
+2,2014,41100.0,Salt Lake City
+3,2015,37065.0,Salt Lake City
+4,2016,40890.0,Salt Lake City
+5,2017,40163.0,Salt Lake City
+6,2018,45195.0,Salt Lake City
+0,2012,68753.0,San Antonio
+1,2013,66682.0,San Antonio
+2,2014,60783.0,San Antonio
+3,2015,54502.0,San Antonio
+4,2016,52042.0,San Antonio
+5,2017,56124.0,San Antonio
+6,2018,52719.0,San Antonio
+0,2012,11554.0,San Bernardino
+1,2013,11349.0,San Bernardino
+2,2014,11888.0,San Bernardino
+3,2015,12287.0,San Bernardino
+4,2016,11579.0,San Bernardino
+5,2017,12384.0,San Bernardino
+6,2018,10656.0,San Bernardino
+0,2012,9912.0,San Clemente
+1,2013,15017.0,San Clemente
+2,2014,12816.0,San Clemente
+3,2015,13486.0,San Clemente
+4,2016,15221.0,San Clemente
+5,2017,14874.0,San Clemente
+6,2018,14592.0,San Clemente
+0,2012,688.9,San Diego
+1,2013,665.9,San Diego
+2,2014,626.4,San Diego
+3,2015,677.0,San Diego
+4,2016,686.8,San Diego
+5,2017,680.1,San Diego
+6,2018,666.0,San Diego
+0,2012,Partial Data,San Diego - Sorrento Valley
+1,2013,Partial Data,San Diego - Sorrento Valley
+2,2014,Partial Data,San Diego - Sorrento Valley
+3,2015,Partial Data,San Diego - Sorrento Valley
+4,2016,Partial Data,San Diego - Sorrento Valley
+5,2017,Partial Data,San Diego - Sorrento Valley
+6,2018,Partial Data,San Diego - Sorrento Valley
+0,2012,232.3,San Jose
+1,2013,256.3,San Jose
+2,2014,208.0,San Jose
+3,2015,213.3,San Jose
+4,2016,221.6,San Jose
+5,2017,221.6,San Jose
+6,2018,229.3,San Jose
+0,2012,206.0,San Juan Capistrano
+1,2013,205.0,San Juan Capistrano
+2,2014,200.6,San Juan Capistrano
+3,2015,208.6,San Juan Capistrano
+4,2016,212.8,San Juan Capistrano
+5,2017,208.9,San Juan Capistrano
+6,2018,213.0,San Juan Capistrano
+0,2012,108.1,San Luis Obispo
+1,2013,114.5,San Luis Obispo
+2,2014,110.0,San Luis Obispo
+3,2015,110.7,San Luis Obispo
+4,2016,107.2,San Luis Obispo
+5,2017,104.5,San Luis Obispo
+6,2018,101.1,San Luis Obispo
+0,2012,7294.0,San Marcos
+1,2013,7995.0,San Marcos
+2,2014,6830.0,San Marcos
+3,2015,7568.0,San Marcos
+4,2016,6799.0,San Marcos
+5,2017,8376.0,San Marcos
+6,2018,7663.0,San Marcos
+0,2012,255.0,Sanderson
+1,2013,261.0,Sanderson
+2,2014,238.0,Sanderson
+3,2015,316.0,Sanderson
+4,2016,184.0,Sanderson
+5,2017,193.0,Sanderson
+6,2018,269.0,Sanderson
+0,2012,8815.0,Sandpoint
+1,2013,9196.0,Sandpoint
+2,2014,8489.0,Sandpoint
+3,2015,7867.0,Sandpoint
+4,2016,7510.0,Sandpoint
+5,2017,7366.0,Sandpoint
+6,2018,7166.0,Sandpoint
+0,2012,9155.0,Sandusky
+1,2013,9591.0,Sandusky
+2,2014,9840.0,Sandusky
+3,2015,8853.0,Sandusky
+4,2016,9593.0,Sandusky
+5,2017,10009.0,Sandusky
+6,2018,9143.0,Sandusky
+0,2012,264.0,Sanford - Auto Train Only
+1,2013,265.2,Sanford - Auto Train Only
+2,2014,273.6,Sanford - Auto Train Only
+3,2015,271.4,Sanford - Auto Train Only
+4,2016,238.3,Sanford - Auto Train Only
+5,2017,228.9,Sanford - Auto Train Only
+6,2018,224.8,Sanford - Auto Train Only
+0,2012,135.5,Santa Ana
+1,2013,137.0,Santa Ana
+2,2014,134.6,Santa Ana
+3,2015,141.3,Santa Ana
+4,2016,148.1,Santa Ana
+5,2017,148.9,Santa Ana
+6,2018,151.1,Santa Ana
+0,2012,301.1,Santa Barbara
+1,2013,318.5,Santa Barbara
+2,2014,315.9,Santa Barbara
+3,2015,332.0,Santa Barbara
+4,2016,335.5,Santa Barbara
+5,2017,338.1,Santa Barbara
+6,2018,363.2,Santa Barbara
+0,2012,Partial Data,Santa Clara
+1,2013,Partial Data,Santa Clara
+2,2014,Partial Data,Santa Clara
+3,2015,Partial Data,Santa Clara
+4,2016,Partial Data,Santa Clara
+5,2017,Partial Data,Santa Clara
+6,2018,Partial Data,Santa Clara
+0,2012,121.2,Santa Clara - Great America
+1,2013,120.1,Santa Clara - Great America
+2,2014,113.2,Santa Clara - Great America
+3,2015,130.7,Santa Clara - Great America
+4,2016,151.6,Santa Clara - Great America
+5,2017,167.5,Santa Clara - Great America
+6,2018,177.5,Santa Clara - Great America
+0,2012,31557.0,Saratoga Springs
+1,2013,32452.0,Saratoga Springs
+2,2014,33203.0,Saratoga Springs
+3,2015,35834.0,Saratoga Springs
+4,2016,36510.0,Saratoga Springs
+5,2017,36295.0,Saratoga Springs
+6,2018,37303.0,Saratoga Springs
+0,2012,71485.0,Savannah
+1,2013,70671.0,Savannah
+2,2014,62280.0,Savannah
+3,2015,59608.0,Savannah
+4,2016,55358.0,Savannah
+5,2017,57180.0,Savannah
+6,2018,53769.0,Savannah
+0,2012,59734.0,Schenectady
+1,2013,60933.0,Schenectady
+2,2014,59965.0,Schenectady
+3,2015,58177.0,Schenectady
+4,2016,54733.0,Schenectady
+5,2017,53887.0,Schenectady
+6,2018,50130.0,Schenectady
+0,2012,1755.0,Schriever
+1,2013,1811.0,Schriever
+2,2014,1923.0,Schriever
+3,2015,2028.0,Schriever
+4,2016,1455.0,Schriever
+5,2017,1294.0,Schriever
+6,2018,1238.0,Schriever
+0,2012,647.1,Seattle - King Street Station
+1,2013,622.7,Seattle - King Street Station
+2,2014,611.4,Seattle - King Street Station
+3,2015,594.0,Seattle - King Street Station
+4,2016,635.7,Seattle - King Street Station
+5,2017,652.7,Seattle - King Street Station
+6,2018,677.5,Seattle - King Street Station
+0,2012,18202.0,Sebring
+1,2013,17111.0,Sebring
+2,2014,17076.0,Sebring
+3,2015,17397.0,Sebring
+4,2016,16414.0,Sebring
+5,2017,15214.0,Sebring
+6,2018,13848.0,Sebring
+0,2012,12194.0,Sedalia
+1,2013,12322.0,Sedalia
+2,2014,11774.0,Sedalia
+3,2015,10986.0,Sedalia
+4,2016,9900.0,Sedalia
+5,2017,9756.0,Sedalia
+6,2018,9289.0,Sedalia
+0,2012,13388.0,Selma-Smithfield
+1,2013,13222.0,Selma-Smithfield
+2,2014,13401.0,Selma-Smithfield
+3,2015,13597.0,Selma-Smithfield
+4,2016,13132.0,Selma-Smithfield
+5,2017,13084.0,Selma-Smithfield
+6,2018,12290.0,Selma-Smithfield
+0,2012,15501.0,Shelby
+1,2013,14459.0,Shelby
+2,2014,11984.0,Shelby
+3,2015,11399.0,Shelby
+4,2016,10823.0,Shelby
+5,2017,10887.0,Shelby
+6,2018,10387.0,Shelby
+0,2012,40697.0,Simi Valley
+1,2013,40126.0,Simi Valley
+2,2014,41528.0,Simi Valley
+3,2015,42365.0,Simi Valley
+4,2016,42902.0,Simi Valley
+5,2017,44298.0,Simi Valley
+6,2018,44174.0,Simi Valley
+0,2012,7101.0,Slidell
+1,2013,7596.0,Slidell
+2,2014,6846.0,Slidell
+3,2015,6127.0,Slidell
+4,2016,5961.0,Slidell
+5,2017,5649.0,Slidell
+6,2018,11098.0,Slidell
+0,2012,416.6,Solana Beach
+1,2013,423.6,Solana Beach
+2,2014,373.3,Solana Beach
+3,2015,391.2,Solana Beach
+4,2016,380.9,Solana Beach
+5,2017,370.1,Solana Beach
+6,2018,377.1,Solana Beach
+0,2012,24658.0,South Bend
+1,2013,25452.0,South Bend
+2,2014,24410.0,South Bend
+3,2015,22044.0,South Bend
+4,2016,21318.0,South Bend
+5,2017,21750.0,South Bend
+6,2018,21207.0,South Bend
+0,2012,1037.0,South Portsmouth
+1,2013,1010.0,South Portsmouth
+2,2014,995.0,South Portsmouth
+3,2015,1057.0,South Portsmouth
+4,2016,1123.0,South Portsmouth
+5,2017,1095.0,South Portsmouth
+6,2018,875.0,South Portsmouth
+0,2012,7092.0,Southern Pines
+1,2013,7554.0,Southern Pines
+2,2014,7208.0,Southern Pines
+3,2015,7567.0,Southern Pines
+4,2016,7112.0,Southern Pines
+5,2017,7065.0,Southern Pines
+6,2018,6925.0,Southern Pines
+0,2012,4452.0,Spartanburg
+1,2013,4545.0,Spartanburg
+2,2014,4451.0,Spartanburg
+3,2015,4143.0,Spartanburg
+4,2016,3777.0,Spartanburg
+5,2017,3548.0,Spartanburg
+6,2018,3870.0,Spartanburg
+0,2012,61940.0,Spokane
+1,2013,63011.0,Spokane
+2,2014,52846.0,Spokane
+3,2015,49588.0,Spokane
+4,2016,49837.0,Spokane
+5,2017,49321.0,Spokane
+6,2018,46784.0,Spokane
+0,2012,140.9,Springfield
+1,2013,139.4,Springfield
+2,2014,133.3,Springfield
+3,2015,123.2,Springfield
+4,2016,92.4,Springfield
+5,2017,88.2,Springfield
+6,2018,99.4,Springfield
+0,2012,140.9,Springfield
+1,2013,139.4,Springfield
+2,2014,133.3,Springfield
+3,2015,123.2,Springfield
+4,2016,92.4,Springfield
+5,2017,88.2,Springfield
+6,2018,99.4,Springfield
+0,2012,3345.0,St. Albans
+1,2013,3592.0,St. Albans
+2,2014,4401.0,St. Albans
+3,2015,4062.0,St. Albans
+4,2016,3355.0,St. Albans
+5,2017,3742.0,St. Albans
+6,2018,3726.0,St. Albans
+0,2012,13740.0,St. Cloud
+1,2013,13537.0,St. Cloud
+2,2014,10431.0,St. Cloud
+3,2015,9950.0,St. Cloud
+4,2016,11457.0,St. Cloud
+5,2017,10325.0,St. Cloud
+6,2018,9566.0,St. Cloud
+0,2012,10818.0,St. Joseph
+1,2013,11183.0,St. Joseph
+2,2014,12292.0,St. Joseph
+3,2015,11764.0,St. Joseph
+4,2016,12479.0,St. Joseph
+5,2017,13825.0,St. Joseph
+6,2018,14670.0,St. Joseph
+0,2012,343.5,St. Louis
+1,2013,369.4,St. Louis
+2,2014,344.6,St. Louis
+3,2015,319.2,St. Louis
+4,2016,328.1,St. Louis
+5,2017,358.5,St. Louis
+6,2018,357.2,St. Louis
+0,2012,388.6,Stamford
+1,2013,383.5,Stamford
+2,2014,397.1,Stamford
+3,2015,392.0,Stamford
+4,2016,397.9,Stamford
+5,2017,406.4,Stamford
+6,2018,412.8,Stamford
+0,2012,10234.0,Stanley
+1,2013,9411.0,Stanley
+2,2014,7036.0,Stanley
+3,2015,6514.0,Stanley
+4,2016,5133.0,Stanley
+5,2017,4594.0,Stanley
+6,2018,4297.0,Stanley
+0,2012,4237.0,Stanwood
+1,2013,4255.0,Stanwood
+2,2014,4674.0,Stanwood
+3,2015,4499.0,Stanwood
+4,2016,4975.0,Stanwood
+5,2017,5172.0,Stanwood
+6,2018,5078.0,Stanwood
+0,2012,7931.0,Staples
+1,2013,6359.0,Staples
+2,2014,5624.0,Staples
+3,2015,5238.0,Staples
+4,2016,6120.0,Staples
+5,2017,5676.0,Staples
+6,2018,5723.0,Staples
+0,2012,Partial Data,State Street [New Haven]
+1,2013,Partial Data,State Street [New Haven]
+2,2014,Partial Data,State Street [New Haven]
+3,2015,Partial Data,State Street [New Haven]
+4,2016,Partial Data,State Street [New Haven]
+5,2017,Partial Data,State Street [New Haven]
+6,2018,Partial Data,State Street [New Haven]
+0,2012,6930.0,Staunton
+1,2013,7733.0,Staunton
+2,2014,6823.0,Staunton
+3,2015,6735.0,Staunton
+4,2016,6250.0,Staunton
+5,2017,6487.0,Staunton
+6,2018,5160.0,Staunton
+0,2012,272.9,Stockton
+1,2013,288.9,Stockton
+2,2014,287.3,Stockton
+3,2015,289.8,Stockton
+4,2016,279.4,Stockton
+5,2017,293.2,Stockton
+6,2018,285.8,Stockton
+0,2012,39777.0,Stockton - ACE Station
+1,2013,42601.0,Stockton - ACE Station
+2,2014,40445.0,Stockton - ACE Station
+3,2015,39323.0,Stockton - ACE Station
+4,2016,37916.0,Stockton - ACE Station
+5,2017,32266.0,Stockton - ACE Station
+6,2018,24605.0,Stockton - ACE Station
+0,2012,75052.0,Sturtevant
+1,2013,74031.0,Sturtevant
+2,2014,70341.0,Sturtevant
+3,2015,74472.0,Sturtevant
+4,2016,76987.0,Sturtevant
+5,2017,83902.0,Sturtevant
+6,2018,82814.0,Sturtevant
+0,2012,199.9,Suisun-Fairfield
+1,2013,195.5,Suisun-Fairfield
+2,2014,161.6,Suisun-Fairfield
+3,2015,163.8,Suisun-Fairfield
+4,2016,167.4,Suisun-Fairfield
+5,2017,163.7,Suisun-Fairfield
+6,2018,138.6,Suisun-Fairfield
+0,2012,9072.0,Summit
+1,2013,11084.0,Summit
+2,2014,12528.0,Summit
+3,2015,12196.0,Summit
+4,2016,11056.0,Summit
+5,2017,12614.0,Summit
+6,2018,18813.0,Summit
+0,2012,148.8,Syracuse
+1,2013,150.9,Syracuse
+2,2014,149.1,Syracuse
+3,2015,139.7,Syracuse
+4,2016,126.5,Syracuse
+5,2017,129.7,Syracuse
+6,2018,127.2,Syracuse
+0,2012,118.8,Tacoma
+1,2013,123.3,Tacoma
+2,2014,123.7,Tacoma
+3,2015,117.0,Tacoma
+4,2016,117.1,Tacoma
+5,2017,113.5,Tacoma
+6,2018,110.8,Tacoma
+0,2012,N/A,Tallahassee
+1,2013,N/A,Tallahassee
+2,2014,N/A,Tallahassee
+3,2015,N/A,Tallahassee
+4,2016,N/A,Tallahassee
+5,2017,N/A,Tallahassee
+6,2018,N/A,Tallahassee
+0,2012,144.7,Tampa
+1,2013,133.4,Tampa
+2,2014,126.8,Tampa
+3,2015,117.4,Tampa
+4,2016,105.7,Tampa
+5,2017,106.5,Tampa
+6,2018,105.7,Tampa
+0,2012,4979.0,Taylor
+1,2013,5425.0,Taylor
+2,2014,4797.0,Taylor
+3,2015,4798.0,Taylor
+4,2016,5437.0,Taylor
+5,2017,5484.0,Taylor
+6,2018,5453.0,Taylor
+0,2012,17856.0,Temple
+1,2013,17690.0,Temple
+2,2014,15378.0,Temple
+3,2015,16023.0,Temple
+4,2016,15535.0,Temple
+5,2017,16461.0,Temple
+6,2018,15330.0,Temple
+0,2012,8849.0,Texarkana
+1,2013,8903.0,Texarkana
+2,2014,7853.0,Texarkana
+3,2015,6894.0,Texarkana
+4,2016,6207.0,Texarkana
+5,2017,6231.0,Texarkana
+6,2018,6133.0,Texarkana
+0,2012,Partial Data,Thomasville
+1,2013,Partial Data,Thomasville
+2,2014,Partial Data,Thomasville
+3,2015,Partial Data,Thomasville
+4,2016,Partial Data,Thomasville
+5,2017,Partial Data,Thomasville
+6,2018,Partial Data,Thomasville
+0,2012,264.0,Thurmond
+1,2013,563.0,Thurmond
+2,2014,390.0,Thurmond
+3,2015,295.0,Thurmond
+4,2016,293.0,Thurmond
+5,2017,345.0,Thurmond
+6,2018,285.0,Thurmond
+0,2012,1996.0,Ticonderoga
+1,2013,2227.0,Ticonderoga
+2,2014,2075.0,Ticonderoga
+3,2015,2304.0,Ticonderoga
+4,2016,2246.0,Ticonderoga
+5,2017,1770.0,Ticonderoga
+6,2018,1807.0,Ticonderoga
+0,2012,4434.0,Toccoa
+1,2013,4266.0,Toccoa
+2,2014,3021.0,Toccoa
+3,2015,2640.0,Toccoa
+4,2016,2516.0,Toccoa
+5,2017,2407.0,Toccoa
+6,2018,2324.0,Toccoa
+0,2012,68159.0,Toledo
+1,2013,67197.0,Toledo
+2,2014,62282.0,Toledo
+3,2015,58098.0,Toledo
+4,2016,54898.0,Toledo
+5,2017,55581.0,Toledo
+6,2018,50960.0,Toledo
+0,2012,10775.0,Tomah
+1,2013,10805.0,Tomah
+2,2014,9426.0,Tomah
+3,2015,10179.0,Tomah
+4,2016,12779.0,Tomah
+5,2017,13306.0,Tomah
+6,2018,11914.0,Tomah
+0,2012,10459.0,Topeka
+1,2013,10571.0,Topeka
+2,2014,10048.0,Topeka
+3,2015,10399.0,Topeka
+4,2016,10214.0,Topeka
+5,2017,10084.0,Topeka
+6,2018,9136.0,Topeka
+0,2012,413.5,Trenton
+1,2013,419.3,Trenton
+2,2014,414.7,Trenton
+3,2015,409.3,Trenton
+4,2016,429.9,Trenton
+5,2017,431.0,Trenton
+6,2018,430.6,Trenton
+0,2012,4770.0,Trinidad
+1,2013,4765.0,Trinidad
+2,2014,4591.0,Trinidad
+3,2015,5158.0,Trinidad
+4,2016,5747.0,Trinidad
+5,2017,5415.0,Trinidad
+6,2018,5635.0,Trinidad
+0,2012,Partial Data,Troy
+1,2013,Partial Data,Troy
+2,2014,Partial Data,Troy
+3,2015,Partial Data,Troy
+4,2016,Partial Data,Troy
+5,2017,Partial Data,Troy
+6,2018,Partial Data,Troy
+0,2012,9450.0,Truckee
+1,2013,9855.0,Truckee
+2,2014,10509.0,Truckee
+3,2015,10846.0,Truckee
+4,2016,14675.0,Truckee
+5,2017,14879.0,Truckee
+6,2018,15251.0,Truckee
+0,2012,23500.0,Tucson
+1,2013,25416.0,Tucson
+2,2014,27533.0,Tucson
+3,2015,28368.0,Tucson
+4,2016,26891.0,Tucson
+5,2017,28675.0,Tucson
+6,2018,27840.0,Tucson
+0,2012,26014.0,Tukwila
+1,2013,29025.0,Tukwila
+2,2014,28273.0,Tukwila
+3,2015,28273.0,Tukwila
+4,2016,29815.0,Tukwila
+5,2017,30997.0,Tukwila
+6,2018,32995.0,Tukwila
+0,2012,12290.0,Tuscaloosa
+1,2013,11598.0,Tuscaloosa
+2,2014,11360.0,Tuscaloosa
+3,2015,10870.0,Tuscaloosa
+4,2016,10493.0,Tuscaloosa
+5,2017,10422.0,Tuscaloosa
+6,2018,10107.0,Tuscaloosa
+0,2012,3108.0,Tyrone
+1,2013,3215.0,Tyrone
+2,2014,3346.0,Tyrone
+3,2015,3324.0,Tyrone
+4,2016,3068.0,Tyrone
+5,2017,3050.0,Tyrone
+6,2018,2826.0,Tyrone
+0,2012,64479.0,Utica
+1,2013,65852.0,Utica
+2,2014,63938.0,Utica
+3,2015,60583.0,Utica
+4,2016,58487.0,Utica
+5,2017,59085.0,Utica
+6,2018,59423.0,Utica
+0,2012,73665.0,Van Nuys
+1,2013,75762.0,Van Nuys
+2,2014,76761.0,Van Nuys
+3,2015,76485.0,Van Nuys
+4,2016,74512.0,Van Nuys
+5,2017,77027.0,Van Nuys
+6,2018,75985.0,Van Nuys
+0,2012,96.6,Vancouver
+1,2013,96.9,Vancouver
+2,2014,95.0,Vancouver
+3,2015,92.7,Vancouver
+4,2016,95.9,Vancouver
+5,2017,96.4,Vancouver
+6,2018,118.9,Vancouver
+0,2012,47482.0,Ventura
+1,2013,55434.0,Ventura
+2,2014,58896.0,Ventura
+3,2015,61739.0,Ventura
+4,2016,65092.0,Ventura
+5,2017,67385.0,Ventura
+6,2018,93553.0,Ventura
+0,2012,6764.0,Victorville
+1,2013,7290.0,Victorville
+2,2014,6692.0,Victorville
+3,2015,7266.0,Victorville
+4,2016,6664.0,Victorville
+5,2017,6292.0,Victorville
+6,2018,5911.0,Victorville
+0,2012,17998.0,Wallingford
+1,2013,16919.0,Wallingford
+2,2014,14221.0,Wallingford
+3,2015,13140.0,Wallingford
+4,2016,9288.0,Wallingford
+5,2017,8162.0,Wallingford
+6,2018,9429.0,Wallingford
+0,2012,4766.0,Walnut Ridge
+1,2013,4731.0,Walnut Ridge
+2,2014,4046.0,Walnut Ridge
+3,2015,3738.0,Walnut Ridge
+4,2016,3345.0,Walnut Ridge
+5,2017,3486.0,Walnut Ridge
+6,2018,3421.0,Walnut Ridge
+0,2012,16074.0,Warrensburg
+1,2013,17189.0,Warrensburg
+2,2014,18450.0,Warrensburg
+3,2015,15656.0,Warrensburg
+4,2016,13812.0,Warrensburg
+5,2017,13144.0,Warrensburg
+6,2018,12046.0,Warrensburg
+0,2012,21117.0,Wasco
+1,2013,49245.0,Wasco
+2,2014,42159.0,Wasco
+3,2015,39061.0,Wasco
+4,2016,40580.0,Wasco
+5,2017,40844.0,Wasco
+6,2018,35844.0,Wasco
+0,2012,14289.0,Washington
+1,2013,15898.0,Washington
+2,2014,15604.0,Washington
+3,2015,15875.0,Washington
+4,2016,15753.0,Washington
+5,2017,16112.0,Washington
+6,2018,15890.0,Washington
+0,2012,4816.9,Washington - Union Station
+1,2013,4794.6,Washington - Union Station
+2,2014,4812.6,Washington - Union Station
+3,2015,4788.3,Washington - Union Station
+4,2016,4921.6,Washington - Union Station
+5,2017,5046.9,Washington - Union Station
+6,2018,5039.1,Washington - Union Station
+0,2012,4882.0,Waterbury-Stowe
+1,2013,5416.0,Waterbury-Stowe
+2,2014,6106.0,Waterbury-Stowe
+3,2015,5837.0,Waterbury-Stowe
+4,2016,5331.0,Waterbury-Stowe
+5,2017,5738.0,Waterbury-Stowe
+6,2018,5110.0,Waterbury-Stowe
+0,2012,23701.0,Waterloo
+1,2013,23889.0,Waterloo
+2,2014,22497.0,Waterloo
+3,2015,19872.0,Waterloo
+4,2016,20277.0,Waterloo
+5,2017,22849.0,Waterloo
+6,2018,21682.0,Waterloo
+0,2012,55502.0,Wells
+1,2013,52448.0,Wells
+2,2014,50507.0,Wells
+3,2015,48890.0,Wells
+4,2016,48790.0,Wells
+5,2017,68835.0,Wells
+6,2018,56960.0,Wells
+0,2012,15351.0,Wenatchee
+1,2013,13791.0,Wenatchee
+2,2014,13056.0,Wenatchee
+3,2015,12678.0,Wenatchee
+4,2016,14925.0,Wenatchee
+5,2017,13449.0,Wenatchee
+6,2018,18126.0,Wenatchee
+0,2012,6175.0,West Glacier
+1,2013,6434.0,West Glacier
+2,2014,5013.0,West Glacier
+3,2015,5761.0,West Glacier
+4,2016,6261.0,West Glacier
+5,2017,5495.0,West Glacier
+6,2018,4891.0,West Glacier
+0,2012,66188.0,West Palm Beach
+1,2013,63065.0,West Palm Beach
+2,2014,61260.0,West Palm Beach
+3,2015,57973.0,West Palm Beach
+4,2016,55496.0,West Palm Beach
+5,2017,52973.0,West Palm Beach
+6,2018,52572.0,West Palm Beach
+0,2012,42023.0,Westerly
+1,2013,39186.0,Westerly
+2,2014,39299.0,Westerly
+3,2015,40916.0,Westerly
+4,2016,42560.0,Westerly
+5,2017,43594.0,Westerly
+6,2018,45788.0,Westerly
+0,2012,4602.0,Westport
+1,2013,4975.0,Westport
+2,2014,4900.0,Westport
+3,2015,5049.0,Westport
+4,2016,5626.0,Westport
+5,2017,5624.0,Westport
+6,2018,5596.0,Westport
+0,2012,14668.0,White River Junction
+1,2013,15175.0,White River Junction
+2,2014,15983.0,White River Junction
+3,2015,14540.0,White River Junction
+4,2016,13717.0,White River Junction
+5,2017,13367.0,White River Junction
+6,2018,13708.0,White River Junction
+0,2012,5985.0,White Sulphur Springs
+1,2013,5204.0,White Sulphur Springs
+2,2014,5165.0,White Sulphur Springs
+3,2015,5087.0,White Sulphur Springs
+4,2016,5204.0,White Sulphur Springs
+5,2017,5878.0,White Sulphur Springs
+6,2018,5680.0,White Sulphur Springs
+0,2012,65510.0,Whitefish
+1,2013,65557.0,Whitefish
+2,2014,51152.0,Whitefish
+3,2015,47337.0,Whitefish
+4,2016,54609.0,Whitefish
+5,2017,56754.0,Whitefish
+6,2018,55210.0,Whitefish
+0,2012,1514.0,Whitehall
+1,2013,1315.0,Whitehall
+2,2014,1584.0,Whitehall
+3,2015,1865.0,Whitehall
+4,2016,1776.0,Whitehall
+5,2017,1638.0,Whitehall
+6,2018,1748.0,Whitehall
+0,2012,7487.0,Williams Junction
+1,2013,6944.0,Williams Junction
+2,2014,6024.0,Williams Junction
+3,2015,6738.0,Williams Junction
+4,2016,8051.0,Williams Junction
+5,2017,9672.0,Williams Junction
+6,2018,2032.0,Williams Junction
+0,2012,57096.0,Williamsburg
+1,2013,61304.0,Williamsburg
+2,2014,60710.0,Williamsburg
+3,2015,60625.0,Williamsburg
+4,2016,58655.0,Williamsburg
+5,2017,59133.0,Williamsburg
+6,2018,56354.0,Williamsburg
+0,2012,54324.0,Williston
+1,2013,51076.0,Williston
+2,2014,44013.0,Williston
+3,2015,38477.0,Williston
+4,2016,27845.0,Williston
+5,2017,26195.0,Williston
+6,2018,29013.0,Williston
+0,2012,727.1,Wilmington
+1,2013,727.4,Wilmington
+2,2014,695.4,Wilmington
+3,2015,694.4,Wilmington
+4,2016,684.1,Wilmington
+5,2017,679.8,Wilmington
+6,2018,695.2,Wilmington
+0,2012,43973.0,Wilson
+1,2013,52466.0,Wilson
+2,2014,57799.0,Wilson
+3,2015,61950.0,Wilson
+4,2016,56727.0,Wilson
+5,2017,55353.0,Wilson
+6,2018,53934.0,Wilson
+0,2012,962.0,Windsor
+1,2013,1126.0,Windsor
+2,2014,1197.0,Windsor
+3,2015,1208.0,Windsor
+4,2016,1165.0,Windsor
+5,2017,1200.0,Windsor
+6,2018,1272.0,Windsor
+0,2012,962.0,Windsor
+1,2013,1126.0,Windsor
+2,2014,1197.0,Windsor
+3,2015,1208.0,Windsor
+4,2016,1165.0,Windsor
+5,2017,1200.0,Windsor
+6,2018,1272.0,Windsor
+0,2012,18209.0,Windsor Locks
+1,2013,18445.0,Windsor Locks
+2,2014,19758.0,Windsor Locks
+3,2015,20826.0,Windsor Locks
+4,2016,16827.0,Windsor Locks
+5,2017,14919.0,Windsor Locks
+6,2018,18145.0,Windsor Locks
+0,2012,4238.0,Winnemucca
+1,2013,4481.0,Winnemucca
+2,2014,4660.0,Winnemucca
+3,2015,3617.0,Winnemucca
+4,2016,4050.0,Winnemucca
+5,2017,4146.0,Winnemucca
+6,2018,4540.0,Winnemucca
+0,2012,23803.0,Winona
+1,2013,22748.0,Winona
+2,2014,19209.0,Winona
+3,2015,18671.0,Winona
+4,2016,18486.0,Winona
+5,2017,17185.0,Winona
+6,2018,14398.0,Winona
+0,2012,5034.0,Winslow
+1,2013,4625.0,Winslow
+2,2014,4428.0,Winslow
+3,2015,5074.0,Winslow
+4,2016,4481.0,Winslow
+5,2017,4187.0,Winslow
+6,2018,4345.0,Winslow
+0,2012,24565.0,Winter Haven
+1,2013,22025.0,Winter Haven
+2,2014,22273.0,Winter Haven
+3,2015,21965.0,Winter Haven
+4,2016,21682.0,Winter Haven
+5,2017,20598.0,Winter Haven
+6,2018,20515.0,Winter Haven
+0,2012,33464.0,Winter Park
+1,2013,30142.0,Winter Park
+2,2014,29013.0,Winter Park
+3,2015,28309.0,Winter Park
+4,2016,28197.0,Winter Park
+5,2017,27253.0,Winter Park
+6,2018,25844.0,Winter Park
+0,2012,Partial Data,Winter Park--Ski Resort
+1,2013,Partial Data,Winter Park--Ski Resort
+2,2014,Partial Data,Winter Park--Ski Resort
+3,2015,Partial Data,Winter Park--Ski Resort
+4,2016,Partial Data,Winter Park--Ski Resort
+5,2017,Partial Data,Winter Park--Ski Resort
+6,2018,Partial Data,Winter Park--Ski Resort
+0,2012,13543.0,Wisconsin Dells
+1,2013,13768.0,Wisconsin Dells
+2,2014,12742.0,Wisconsin Dells
+3,2015,13009.0,Wisconsin Dells
+4,2016,14240.0,Wisconsin Dells
+5,2017,14606.0,Wisconsin Dells
+6,2018,13631.0,Wisconsin Dells
+0,2012,1567.0,Wishram
+1,2013,1570.0,Wishram
+2,2014,1512.0,Wishram
+3,2015,1300.0,Wishram
+4,2016,1330.0,Wishram
+5,2017,1577.0,Wishram
+6,2018,1339.0,Wishram
+0,2012,18860.0,Woburn
+1,2013,19573.0,Woburn
+2,2014,22754.0,Woburn
+3,2015,16901.0,Woburn
+4,2016,21485.0,Woburn
+5,2017,18953.0,Woburn
+6,2018,17187.0,Woburn
+0,2012,8023.0,Wolf Point
+1,2013,8019.0,Wolf Point
+2,2014,6301.0,Wolf Point
+3,2015,6057.0,Wolf Point
+4,2016,5662.0,Wolf Point
+5,2017,5097.0,Wolf Point
+6,2018,4447.0,Wolf Point
+0,2012,10008.0,Woodbridge
+1,2013,10458.0,Woodbridge
+2,2014,10658.0,Woodbridge
+3,2015,10340.0,Woodbridge
+4,2016,9971.0,Woodbridge
+5,2017,9680.0,Woodbridge
+6,2018,9669.0,Woodbridge
+0,2012,8900.0,Worcester
+1,2013,9552.0,Worcester
+2,2014,8439.0,Worcester
+3,2015,7237.0,Worcester
+4,2016,6152.0,Worcester
+5,2017,6665.0,Worcester
+6,2018,6157.0,Worcester
+0,2012,3323.0,Yazoo City
+1,2013,3772.0,Yazoo City
+2,2014,3764.0,Yazoo City
+3,2015,3784.0,Yazoo City
+4,2016,3811.0,Yazoo City
+5,2017,3587.0,Yazoo City
+6,2018,3195.0,Yazoo City
+0,2012,14624.0,Yemassee
+1,2013,14915.0,Yemassee
+2,2014,12437.0,Yemassee
+3,2015,12336.0,Yemassee
+4,2016,10770.0,Yemassee
+5,2017,10451.0,Yemassee
+6,2018,9740.0,Yemassee
+0,2012,21966.0,Yonkers
+1,2013,24019.0,Yonkers
+2,2014,24578.0,Yonkers
+3,2015,26070.0,Yonkers
+4,2016,25253.0,Yonkers
+5,2017,26925.0,Yonkers
+6,2018,28344.0,Yonkers
+0,2012,3941.0,Yuma
+1,2013,3803.0,Yuma
+2,2014,3702.0,Yuma
+3,2015,4262.0,Yuma
+4,2016,4518.0,Yuma
+5,2017,4516.0,Yuma
+6,2018,4459.0,Yuma
+0,2012,4736.2,Lon
+1,2013,4753.9,Lon
+2,2014,4543.2,Lon
+3,2015,4488.5,Lon
+4,2016,4655.5,Lon
+5,2017,4698.5,Lon
+6,2018,4447.7,Lon
