@@ -1,0 +1,508 @@
+Year,riders new,city,station
+2018,"9,860,400",New York - Penn Station,New York / Penn Station
+2018,"5,039,100",Washington - Union Station,Washington / Union Station
+2018,"4,417,000",Philadelphia - 30th Street Station,Philadelphia - 30th St
+2018,"3,293,600",Chicago - Union Station,Chicago - Union Station
+2018,"1,533,500",Boston - South Station,Boston - South Station
+2018,"1,446,900",Los Angeles - Union Station,Los Angeles / Union Station
+2018,"1,072,100",Sacramento,Sacramento
+2018,"1,026,000",Baltimore - Penn Station,Baltimore / Penn Station
+2018,"790,500",Albany-Rensselaer,Albany/Rensselaer
+2018,"758,400",Providence,Providence
+2018,"748,500",Baltimore - BWI Thurgood Marshall Airport,Baltimore / BWI Thurgood Marshall Airport
+2018,"697,500",Newark,Newark
+2018,"695,200",Wilmington,Wilmington
+2018,"688,900",New Haven,New Haven
+2018,"677,500",Seattle - King Street Station,Seattle / King Street Station
+2018,"676,500",Boston - Back Bay,Boston - Back Bay
+2018,"666,000",San Diego,San Diego
+2018,"596,200",Milwaukee,Milwaukee
+2018,"588,000",Emeryville,Emeryville
+2018,"565,900",Portland - Union Station,Portland / Union Station
+2018,"561,400",Lancaster,Lancaster
+2018,"507,200",Harrisburg,Harrisburg
+2018,"458,200",Boston - North Station Maine Service,Boston - North Station
+2018,"458,200",Boston - Route 128 / Westwood,Westwood
+2018,"431,400",Bakersfield,Bakersfield
+2018,"430,600",Trenton,Trenton
+2018,"412,800",Stamford,Stamford
+2018,"386,400",Oakland - Jack London Sq,Oakland / Jack London Sq
+2018,"383,300",Davis,Davis
+2018,"377,100",Solana Beach,Solana Beach
+2018,"371,600",Fresno,Fresno
+2018,"365,400",Irvine,Irvine
+2018,"364,700",Iselin,Iselin
+2018,"363,200",Santa Barbara,Santa Barbara
+2018,"357,200",St. Louis,St. Louis
+2018,"341,700",Richmond - Staples Mill Rd,Richmond / Staples Mill Rd
+2018,"341,600",Martinez,Martinez
+2018,"286,900",Richmond,Richmond
+2018,"285,800",Stockton,Stockton
+2018,"284,300",Oceanside,Oceanside
+2018,"256,600",Anaheim,Anaheim
+2018,"235,500",Bloomington-Normal,Bloomington-Normal
+2018,"232,200",Paoli,Paoli
+2018,"229,300",San Jose,San Jose
+2018,"224,800",Lorton - Auto Train Only,Lorton / Auto Train Only
+2018,"224,800",Sanford - Auto Train Only,Sanford / Auto Train Only
+2018,"219,800",Hudson,Hudson
+2018,"198,100",Rhinecliff,Rhinecliff
+2018,"187,800",Hanford,Hanford
+2018,"187,300",Alexandria,Alexandria
+2018,"180,400",New Orleans,New Orleans
+2018,"180,300",Milwaukee - Airport,Milwaukee / Airport
+2018,"177,500",Santa Clara - Great America,Santa Clara / Great America
+2018,"173,800",New Carrollton,New Carrollton
+2018,"171,900",Berkeley,Berkeley
+2018,"169,500",Kingston,Kingston
+2018,"167,900",Newark - International Airport,Newark / International Airport
+2018,"166,100",Portland,Portland
+2018,"160,200",New London,New London
+2018,"155,600",Ann Arbor,Ann Arbor
+2018,"153,800",Raleigh,Raleigh
+2018,"153,500",Champaign-Urbana,Champaign/Urbana
+2018,"151,900",Kansas City,Kansas City
+2018,"151,100",Santa Ana,Santa Ana
+2018,"147,500",Hartford,Hartford
+2018,"142,700",Exton,Exton
+2018,"141,500",Denver,Denver
+2018,"138,600",Suisun-Fairfield,Suisun/Fairfield
+2018,"136,800",Pittsburgh,Pittsburgh
+2018,"131,400",Charlottesville,Charlottesville
+2018,"127,200",Syracuse,Syracuse
+2018,"126,700",Rochester,Rochester
+2018,"120,300",Kalamazoo,Kalamazoo
+2018,"118,900",Vancouver,Vancouver
+2018,"116,500",Greensboro,Greensboro
+2018,"111,400",Modesto,Modesto
+2018,"110,800",Goleta,Goleta
+2018,"110,800",Tacoma,Tacoma
+2018,"107,200",Fort Worth,Fort Worth
+2018,"105,700",Tampa,Tampa
+2018,"104,400",Oxnard,Oxnard
+2018,"104,200",Buffalo - Depew,Buffalo / Depew
+2018,"101,100",San Luis Obispo,San Luis Obispo
+2018,"99,600",Elizabethtown,Elizabethtown
+2018,"99,400",Springfield,Springfield
+2018,"98,300",Newport News,Newport News
+2018,"93,900",Poughkeepsie,Poughkeepsie
+2018,"93,553",Ventura,Ventura
+2018,"93,200",Galesburg,Galesburg
+2018,"91,468",New Rochelle,New Rochelle
+2018,"90,196",Bridgeport,Bridgeport
+2018,"89,900",Carbondale,Carbondale
+2018,"88,728",Oakland - Coliseum Airport,Oakland / Coliseum Airport
+2018,"88,500",Eugene,Eugene
+2018,"88,500",Exeter,Exeter
+2018,"82,814",Sturtevant,Sturtevant
+2018,"81,534",Cary,Cary
+2018,"81,154",Downingtown,Downingtown
+2018,"75,985",Van Nuys,Van Nuys
+2018,"74,089",Durham,"Durham, NC"
+2018,"72,270",Dearborn,Dearborn
+2018,"70,900",Atlanta,Atlanta
+2018,"70,518",Reno,Reno
+2018,"70,182",Memphis,Memphis
+2018,"68,294",East Lansing,East Lansing
+2018,"68,047",Middletown,Middletown
+2018,"67,503",Old Saybrook,Old Saybrook
+2018,"66,591",Alton,Alton
+2018,"66,085",Jacksonville,Jacksonville
+2018,"65,800",Lacey,Lacey
+2018,"65,548",Detroit,Detroit
+2018,"64,382",Albuquerque,Albuquerque
+2018,"64,063",Chatsworth,Chatsworth
+2018,"64,053",Dover,Dover
+2018,"63,560",Burbank - Airport,Burbank / Airport
+2018,"63,500",Miami,Miami
+2018,"63,493",Ardmore,Ardmore
+2018,"60,947",Fredericksburg,Fredericksburg
+2018,"60,618",Joliet,Joliet
+2018,"60,081",Macomb,Macomb
+2018,"59,423",Utica,Utica
+2018,"57,993",Hayward,Hayward
+2018,"57,772",Durham,"Durham, NH"
+2018,"56,960",Wells,Wells
+2018,"56,866",Lynchburg,Lynchburg
+2018,"56,354",Williamsburg,Williamsburg
+2018,"55,497",Glenview,Glenview
+2018,"55,210",Whitefish,Whitefish
+2018,"55,090",Salem,Salem
+2018,"54,868",Camarillo,Camarillo
+2018,"54,369",Kirkwood,Kirkwood
+2018,"53,934",Wilson,Wilson
+2018,"53,769",Savannah,Savannah
+2018,"52,719",San Antonio,San Antonio
+2018,"52,572",West Palm Beach,West Palm Beach
+2018,"51,365",Rocky Mount,Rocky Mount
+2018,"50,960",Toledo,Toledo
+2018,"50,528",Fayetteville,Fayetteville
+2018,"50,278",Carpinteria,Carpinteria
+2018,"50,130",Schenectady,Schenectady
+2018,"49,319",Bellingham,Bellingham
+2018,"48,657",Cleveland,Cleveland
+2018,"48,158",Saco,Saco
+2018,"48,033",Richmond - Main Street Station,Richmond / Main Street Station
+2018,"46,784",Spokane,Spokane
+2018,"46,094",Dallas,Dallas
+2018,"45,788",Westerly,Westerly
+2018,"45,592",Mount Joy,Mount Joy
+2018,"45,195",Salt Lake City,Salt Lake City
+2018,"44,815",Glendale,Glendale
+2018,"44,559",Fremont,Fremont
+2018,"44,513",Parkesburg,Parkesburg
+2018,"44,386",Oklahoma City,Oklahoma City
+2018,"44,174",Simi Valley,Simi Valley
+2018,"43,950",Jackson,"Jackson, MS"
+2018,"43,467",Glenwood Springs,Glenwood Springs
+2018,"43,184",Croton-Harmon,Croton/Harmon
+2018,"42,838",Flagstaff,Flagstaff
+2018,"42,803",Haverhill,Haverhill
+2018,"41,753",Naperville,Naperville
+2018,"41,420",Battle Creek,Battle Creek
+2018,"40,249",Fort Lauderdale,Fort Lauderdale
+2018,"40,187",Florence,Florence
+2018,"39,974",Grand Rapids,Grand Rapids
+2018,"39,891",Birmingham,Birmingham
+2018,"38,794",Everett,Everett
+2018,"38,775",Roseville,Roseville
+2018,"38,748",Jefferson City,Jefferson City
+2018,"38,089",Buffalo - Exchange St.,Buffalo / Exchange St.
+2018,"37,867",Aberdeen,Aberdeen
+2018,"37,708",Princeton,Princeton
+2018,"37,303",Saratoga Springs,Saratoga Springs
+2018,"37,050",Princeton Junction,Princeton Junction
+2018,"36,851",Quincy,Quincy
+2018,"36,288",Holland,Holland
+2018,"36,065",Klamath Falls,Klamath Falls
+2018,"35,878",Homewood,Homewood
+2018,"35,844",Wasco,Wasco
+2018,"35,343",Antioch-Pittsburg,Antioch/Pittsburg
+2018,"34,774",Kissimmee,Kissimmee
+2018,"34,392",Longview,Longview
+2018,"33,908",Mattoon,Mattoon
+2018,"33,624",Austin,Austin
+2018,"32,995",Tukwila,Tukwila
+2018,"32,699",Niagara Falls,Niagara Falls
+2018,"32,146",Grand Junction,Grand Junction
+2018,"31,497",Petersburg,Petersburg
+2018,"31,048",High Point,High Point
+2018,"31,011",Kelso-Longview,Kelso/Longview
+2018,"30,780",Albany,Albany
+2018,"30,492",Denair,Denair
+2018,"29,805",Columbia,Columbia
+2018,"29,531",Minot,Minot
+2018,"29,013",Williston,Williston
+2018,"28,939",Ashland,Ashland
+2018,"28,804",Indianapolis,Indianapolis
+2018,"28,796",Edmonds,Edmonds
+2018,"28,384",Madera,Madera
+2018,"28,344",Yonkers,Yonkers
+2018,"28,218",Centralia,Centralia
+2018,"28,017",Mystic,Mystic
+2018,"27,840",Tucson,Tucson
+2018,"27,777",Flint,Flint
+2018,"27,318",Royal Oak,Royal Oak
+2018,"26,895",Omaha,Omaha
+2018,"26,565",Lees Summit,Lees Summit
+2018,"25,890",Hermann,Hermann
+2018,"25,849",New Buffalo,New Buffalo
+2018,"25,844",Winter Park,Winter Park
+2018,"25,622",La Crosse,La Crosse
+2018,"24,658",Corcoran,Corcoran
+2018,"24,605",Stockton - ACE Station,Stockton / ACE Station
+2018,"24,131",Effingham,Effingham
+2018,"23,443",Lincoln,"Lincoln, IL"
+2018,"23,347",Jackson,"Jackson, MI"
+2018,"23,048",Manassas,Manassas
+2018,"22,711",Pasco,Pasco
+2018,"22,348",Hollywood,Hollywood
+2018,"22,066",Mendota,Mendota
+2018,"21,895",Deerfield Beach,Deerfield Beach
+2018,"21,888",Burlington,Burlington
+2018,"21,787",Elkhart,Elkhart
+2018,"21,682",Waterloo,Waterloo
+2018,"21,207",South Bend,South Bend
+2018,"20,693",Salisbury,Salisbury
+2018,"20,677",Deland,Deland
+2018,"20,515",Winter Haven,Winter Haven
+2018,"20,390",Burlington,Essex Junction
+2018,"19,952",Houston,Houston
+2018,"19,758",Grover Beach,Grover Beach
+2018,"19,593",Port Huron,Port Huron
+2018,"19,407",Johnstown,Johnstown
+2018,"19,378",Altoona,Altoona
+2018,"19,218",Little Rock,Little Rock
+2018,"19,109",Kankakee,Kankakee
+2018,"19,099",Salinas - Downtown,Salinas
+2018,"18,952",Lakeland - Departure 92 North Arrival 91 South,Lakeland
+2018,"18,948",Quantico,Quantico
+2018,"18,858",Kannapolis,Kannapolis
+2018,"18,813",Summit,Summit
+2018,"18,695",Fargo,Fargo
+2018,"18,299",Moorpark,Moorpark
+2018,"18,145",Windsor Locks,Windsor Locks
+2018,"18,126",Wenatchee,Wenatchee
+2018,"17,604",Pontiac,"Pontiac, IL"
+2018,"17,405",Niles,Niles
+2018,"17,278",Coatesville,Coatesville
+2018,"17,236",Kewanee,Kewanee
+2018,"17,187",Woburn,Woburn
+2018,"16,956",Rocklin,Rocklin
+2018,"16,815",Mount Vernon,Mount Vernon
+2018,"16,649",Brattleboro,Brattleboro
+2018,"16,167",Meriden,Meriden
+2018,"16,064",Osceola,Osceola
+2018,"15,963",Berlin,Berlin
+2018,"15,890",Washington,Washington
+2018,"15,802",Old Orchard Beach,Old Orchard Beach
+2018,"15,330",Temple,Temple
+2018,"15,251",Truckee,Truckee
+2018,"15,218",Newton,Newton
+2018,"15,200",Lincoln,"Lincoln, NE"
+2018,"15,072",Erie,Erie
+2018,"14,670",St. Joseph,St. Joseph
+2018,"14,597",Gallup,Gallup
+2018,"14,592",San Clemente,San Clemente
+2018,"14,428",Culpeper,Culpeper
+2018,"14,414",East Glacier Park,East Glacier Park
+2018,"14,398",Winona,Winona
+2018,"14,267",Auburn,Auburn
+2018,"14,134",El Paso,El Paso
+2018,"13,964",Pontiac,"Pontiac, MI"
+2018,"13,848",Sebring,Sebring
+2018,"13,794",Greenwood,Greenwood
+2018,"13,708",White River Junction,White River Junction
+2018,"13,643",Delray Beach,Delray Beach
+2018,"13,631",Wisconsin Dells,Wisconsin Dells
+2018,"13,539",Durand,Durand
+2018,"13,346",Grand Forks,Grand Forks
+2018,"13,137",Guadalupe-Santa Maria,Guadalupe
+2018,"13,003",Plattsburgh,Plattsburgh
+2018,"12,959",Rutland,Rutland
+2018,"12,643",Greensburg,Greensburg
+2018,"12,586",Mount Pleasant,Mount Pleasant
+2018,"12,469",Norman,Norman
+2018,"12,290",Selma-Smithfield,Selma
+2018,"12,172",Greenville,Greenville
+2018,"12,089",Carlinville,Carlinville
+2018,"12,046",Warrensburg,Warrensburg
+2018,"11,914",Tomah,Tomah
+2018,"11,622",Maricopa,Maricopa
+2018,"11,598",Palatka,Palatka
+2018,"11,474",Riverside,Riverside
+2018,"11,414",Columbus,Columbus
+2018,"11,382",Oregon City,Oregon City
+2018,"11,203",Charleston,Charleston
+2018,"11,102",Havre,Havre
+2018,"11,098",Slidell,Slidell
+2018,"11,043",Ottumwa,Ottumwa
+2018,"10,956",La Plata,La Plata
+2018,"10,925",La Grange Road,La Grange Road
+2018,"10,896",Cumberland,Cumberland
+2018,"10,747",Paso Robles,Paso Robles
+2018,"10,687",Martinsburg,Martinsburg
+2018,"10,656",San Bernardino,San Bernardino
+2018,"10,450",Kingstree,Kingstree
+2018,"10,414",Chico,Chico
+2018,"10,387",Shelby,Shelby
+2018,"10,248",Huntington,Huntington
+2018,"10,166",Amsterdam,Amsterdam
+2018,"10,107",Tuscaloosa,Tuscaloosa
+2018,"10,006",Fraser,Fraser
+2018,"9,913",Dwight,Dwight
+2018,"9,822",Redding,Redding
+2018,"9,740",Yemassee,Yemassee
+2018,"9,731",Lamy,Lamy
+2018,"9,669",Woodbridge,Woodbridge
+2018,"9,566",St. Cloud,St. Cloud
+2018,"9,461",Jesup,Jesup
+2018,"9,429",Wallingford,Wallingford
+2018,"9,346",Hammond,Hammond
+2018,"9,289",Sedalia,Sedalia
+2018,"9,279",Lodi,Lodi
+2018,"9,276",Fort Edward-Glens Falls,Fort Edward/Glens Falls
+2018,"9,199",Chemult,Chemult
+2018,"9,143",Sandusky,Sandusky
+2018,"9,136",Topeka,Topeka
+2018,"9,135",Lompoc,Lompoc
+2018,"9,125",Needles,Needles
+2018,"9,090",Meridian,Meridian
+2018,"9,066",Kingman,Kingman
+2018,"8,948",Lapeer,Lapeer
+2018,"8,685",Hattiesburg,Hattiesburg
+2018,"8,676",Lewistown,Lewistown
+2018,"8,668",Burlington,Burlington
+2018,"8,656",Elko,Elko
+2018,"8,371",Marshall,Marshall
+2018,"8,362",Lawrence,Lawrence
+2018,"8,315",Cincinnati,Cincinnati
+2018,"8,293",Du Quoin,Du Quoin
+2018,"8,270",Pittsfield,Pittsfield
+2018,"8,265",Red Wing,Red Wing
+2018,"7,874",Montpelier-Barre,Montpelier
+2018,"7,663",San Marcos,San Marcos
+2018,"7,612",Harpers Ferry,Harpers Ferry
+2018,"7,498",Burke - Burke Centre,Burke Centre
+2018,"7,443",Leavenworth,Leavenworth
+2018,"7,392",Raton,Raton
+2018,"7,373",La Junta,La Junta
+2018,"7,280",Elyria,Elyria
+2018,"7,266",Portage,Portage
+2018,"7,166",Sandpoint,Sandpoint
+2018,"7,056",Garden City,Garden City
+2018,"6,934",Danville,Danville
+2018,"6,925",Southern Pines,Southern Pines
+2018,"6,902",New Brunswick,New Brunswick
+2018,"6,683",Independence,Independence
+2018,"6,658",Gainesville,"Gainesville, FL"
+2018,"6,516",Rome,Rome
+2018,"6,442",Plano,Plano
+2018,"6,423",Mineola,Mineola
+2018,"6,423",Minneapolis / St. Paul,Minneapolis / St. Paul
+2018,"6,157",Worcester,Worcester
+2018,"6,151",Lafayette,Lafayette
+2018,"6,133",Texarkana,Texarkana
+2018,"5,911",Victorville,Victorville
+2018,"5,891",Fort Madison,Fort Madison
+2018,"5,841",Dillon,Dillon
+2018,"5,836",Hinton,Hinton
+2018,"5,788",Hammond-Whiting,Hammond/Whiting
+2018,"5,766",Huntingdon,Huntingdon
+2018,"5,723",Staples,Staples
+2018,"5,680",White Sulphur Springs,White Sulphur Springs
+2018,"5,660",Crawfordsville,Crawfordsville
+2018,"5,658",Colfax,Colfax
+2018,"5,635",Trinidad,Trinidad
+2018,"5,596",Westport,Westport
+2018,"5,453",Taylor,Taylor
+2018,"5,434",Glasgow,Glasgow
+2018,"5,311",Alpine,Alpine
+2018,"5,304",Hastings,Hastings
+2018,"5,289",Dodge City,Dodge City
+2018,"5,225",Bryan,Bryan
+2018,"5,162",Rockville,Rockville
+2018,"5,160",Staunton,Staunton
+2018,"5,120",Provo,Provo
+2018,"5,110",Waterbury-Stowe,Waterbury/Stowe
+2018,"5,078",Stanwood,Stanwood
+2018,"5,061",McGregor,McGregor
+2018,"5,034",Granby,Granby
+2018,"5,032",Gainesville,"Gainesville, GA"
+2018,"4,999",Rantoul,Rantoul
+2018,"4,979",Dowagiac,Dowagiac
+2018,"4,958",Libby,Libby
+2018,"4,891",West Glacier,West Glacier
+2018,"4,877",Detroit Lakes,Detroit Lakes
+2018,"4,795",McComb,McComb
+2018,"4,654",Dunsmuir,Dunsmuir
+2018,"4,640",Poplar Bluff,Poplar Bluff
+2018,"4,629",Las Vegas,Las Vegas
+2018,"4,540",Winnemucca,Winnemucca
+2018,"4,501",Alliance,Alliance
+2018,"4,462",Bellows Falls,Bellows Falls
+2018,"4,459",Yuma,Yuma
+2018,"4,447",Wolf Point,Wolf Point
+2018,"4,441",Ontario,Ontario
+2018,"4,415",Hutchinson,Hutchinson
+2018,"4,407",Connellsville,Connellsville
+2018,"4,345",Winslow,Winslow
+2018,"4,297",Stanley,Stanley
+2018,"4,217",Devils Lake,Devils Lake
+2018,"4,180",Bangor,Bangor
+2018,"4,102",Rugby,Rugby
+2018,"4,068",Latrobe,Latrobe
+2018,"4,065",Pauls Valley,Pauls Valley
+2018,"4,028",Brookhaven,Brookhaven
+2018,"4,005",Hamlet,Hamlet
+2018,"3,988",Okeechobee,Okeechobee
+2018,"3,942",Castleton,Castleton
+2018,"3,929",Cleburne,Cleburne
+2018,"3,924",Laurel,Laurel
+2018,"3,870",Spartanburg,Spartanburg
+2018,"3,833",Anniston,Anniston
+2018,"3,782",Lake Charles,Lake Charles
+2018,"3,747",Creston,Creston
+2018,"3,726",St. Albans,St. Albans
+2018,"3,673",Cornwells Heights,Cornwells Heights
+2018,"3,641",Beaumont,Beaumont
+2018,"3,576",Newbern,Newbern
+2018,"3,570",Malta,Malta
+2018,"3,503",Ephrata,Ephrata
+2018,"3,445",Fort Morgan,Fort Morgan
+2018,"3,439",Fulton,Fulton
+2018,"3,421",Walnut Ridge,Walnut Ridge
+2018,"3,400",Barstow,Barstow
+2018,"3,286",Essex,Essex
+2018,"3,284",Michigan City,Michigan City
+2018,"3,282",McCook,McCook
+2018,"3,272",Bingen-White Salmon,Bingen/White Salmon
+2018,"3,230",Denmark,Denmark
+2018,"3,198",Dyer,Dyer
+2018,"3,195",Yazoo City,Yazoo City
+2018,"3,161",Camden,Camden
+2018,"2,925",North Palm Springs,North Palm Springs
+2018,"2,826",Tyrone,Tyrone
+2018,"2,605",Green River,Green River
+2018,"2,603",Port Henry,Port Henry
+2018,"2,542",Claremont,Claremont
+2018,"2,396",Cut Bank,Cut Bank
+2018,"2,324",Toccoa,Toccoa
+2018,"2,317",Gilman,Gilman
+2018,"2,261",Helper,Helper
+2018,"2,225",Holdrege,Holdrege
+2018,"2,162",Prince,Prince
+2018,"2,119",Picayune,Picayune
+2018,"2,032",Williams Junction,Williams Junction
+2018,"2,024",Maysville,Maysville
+2018,"2,011",Albion,Albion
+2018,"1,961",Framingham,Framingham
+2018,"1,951",Clifton Forge,Clifton Forge
+2018,"1,939",Benson,Benson
+2018,"1,842",Randolph,Randolph
+2018,"1,816",Rensselaer,Rensselaer
+2018,"1,807",Ticonderoga,Ticonderoga
+2018,"1,748",Whitehall,Whitehall
+2018,"1,695",Del Rio,Del Rio
+2018,"1,693",Malvern,Malvern
+2018,"1,635",Purcell,Purcell
+2018,"1,602",New Iberia,New Iberia
+2018,"1,588",Lamar,Lamar
+2018,"1,540",Pomona,Pomona
+2018,"1,433",Arkadelphia,Arkadelphia
+2018,"1,388",Deming,Deming
+2018,"1,339",Wishram,Wishram
+2018,"1,334",Browning,Browning
+2018,"1,332",Hazlehurst,Hazlehurst
+2018,"1,302",Rouses Point,Rouses Point
+2018,"1,272",Windsor,Windsor
+2018,"1,251",Gastonia,Gastonia
+2018,"1,238",Schriever,Schriever
+2018,875,South Portsmouth,South Portsmouth
+2018,733,Lordsburg,Lordsburg
+2018,726,Lexington - Barbecue Festival,Lexington / Barbecue Festival
+2018,607,Connersville,Connersville
+2018,433,Alderson,Alderson
+2018,347,Montgomery,Montgomery
+2018,285,Thurmond,Thurmond
+2018,"280,000",Fullerton,Fullerton
+2018,269,Sanderson,Sanderson
+2018,"213,000",San Juan Capistrano,San Juan Capistrano
+2018,"169,000",Charlotte,Charlotte
+2018,"126,000",Merced,Merced
+2018,"124,000",Orlando,Orlando
+2018, -   ,Atmore,Atmore
+2018, -   ,Bay St. Louis,Bay St. Louis
+2018, -   ,Biloxi,Biloxi
+2018, -   ,Chipley,Chipley
+2018, -   ,Crestview,Crestview
+2018, -   ,Gulfport,Gulfport
+2018, -   ,Guthrie,Guthrie
+2018, -   ,Lake City,Lake City
+2018, -   ,Madison,Madison
+2018, -   ,Mobile,Mobile
+2018,317,NC State Fair - Raleigh,NC State Fair / Raleigh
+2018, -   ,Pascagoula,Pascagoula
+2018, -   ,Pensacola,Pensacola
+2018, -   ,Tallahassee,Tallahassee
+2018,"349,400",San Diego -- Old Town,San Diego -- Old Town
