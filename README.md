@@ -7,7 +7,7 @@ This is a web scraper to download pdf data on Amtrak usage at stations across th
 
 Visual of final dataset overlaid in U.S. is shown at [this location.](https://ericenglin.github.io/Amtrak-Web-Scraper/Data Visualization/Amtrak Riders 2018.html) 
 
-![Amtrak Ridership](Data Visualization/Amtrak Mapping.png)
+![Amtrak Ridership](/Data Visualization/Amtrak 2018 Ridership Map.png)
 
 
 
