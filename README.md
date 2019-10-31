@@ -5,4 +5,4 @@ This is a web scraper to download pdf data on Amtrak usage at stations across th
 An example pdf is attached for Aberdeen, MD. Website with all raw pdf's: https://www.railpassengers.org/all-aboard/tools-info/ridership-statistics/
 
 # Aberdeen Example
-![Screenshot](Aberdeen.pdf)
+![Screenshot](Aberdeen.jpg)
