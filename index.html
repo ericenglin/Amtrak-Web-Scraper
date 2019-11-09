@@ -46,6 +46,8 @@
 
       <h1 id="amtrak-web-scraper">Amtrak Web Scraper</h1>
 
+<p>Created by Eric Englin</p>
+
 <p>This is a web scraper to download PDFs on Amtrak usage at stations across the U.S. from 2012-2018. Raw PDFs were downloaded at the station level and the state level (both csv’s included here). From there, the program will scrape the graph for the last 6 years of ridership from each PDF document. Some stations have discontinued services in the last 6 years, and the program will flag these stations. Final data is posted as data visuals.</p>
 
 <h1 id="data-visualization">Data Visualization</h1>
@@ -116,11 +118,16 @@
 <h4>A version created in ArcGIS Pro that overlays the Amtrak rail network:
   <img src="./Amtrak-Ridership.png" alt="Amtrak Ridership" style="width:900px;height:600px;"/></h4>
 
-<h1 id="aberdeen-example">Aberdeen Example</h1>
+<h1>Data Collection</h1>
+<p>Data was collected from railpassengers.org where similar fact sheets are available for all stations and states.
+  In these fact sheets, there are graphs showing passenger arrivals and departures from 2012-2018.
+  The jupyter notebooks in the data collection folder show the process for downloading all of the PDFs simultaneously and
+  scraping the data from the PDFs using the Tabula package. The final products are the state and station level CSV files.</p>
+
+<h2>Aberdeen Example</h2>
 <p>An example pdf is shown below for Aberdeen, MD. Website with all raw pdf’s: https://www.railpassengers.org/all-aboard/tools-info/ridership-statistics/</p>
 
-<p>Here is a screenshot:
-<img src="./Aberdeen.jpg" alt="Screenshot" style="width:700px;height:800px;"/></p>
+<p><img src="./Aberdeen.jpg" alt="Screenshot" style="width:700px;height:800px;"/></p>
 
 
 
